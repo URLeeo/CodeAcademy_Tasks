@@ -1,6 +1,6 @@
 ﻿#region C# Introduction
 
-#region Verilmiş n - ədədinin 3-ə və 7-ə bölünüb-bölünməməsini tapın.
+#region Verilmiş n - ededinin 3-e ve 7-e bölünüb-bölünmemesini tapın.
 
 //Console.ForegroundColor = ConsoleColor.Cyan;
 //Console.WriteLine("Ededi daxil edin:");
@@ -21,7 +21,7 @@
 
 #endregion
 
-#region n və m ədədləri verilir. Əgər n və m ədədləri hər ikisi cütdürsə n və m ədədlərinin cəmini hesablayın.
+#region n ve m ededleri verilir. eger n ve m ededleri her ikisi cütdürse n ve m ededlerinin cemini hesablayın.
 
 //Console.ForegroundColor = ConsoleColor.Cyan;
 //Console.WriteLine("Birinci ededi daxil edin:");
@@ -175,6 +175,59 @@
 //    Console.WriteLine("Arrayda hec bir tek eded yoxdur!");
 //}
 //Console.ResetColor();
+#endregion
+
+#endregion
+
+#region Methods, Overriding, Overloading
+
+#region Verilmis n tam ededinin sade ve ya murekkeb oldugunu tapin.
+
+//Console.ForegroundColor = ConsoleColor.Cyan;
+//Console.Write("ededi daxil edin: ");
+//Console.ResetColor();
+
+//int n = Convert.ToInt32(Console.ReadLine());
+//bool isPrime = true;
+
+//if (n == 0 || n == 1)
+//{
+//    Console.ForegroundColor = ConsoleColor.Yellow;
+//    Console.WriteLine($"{n} ne sade, ne de mürekkeb ededdir ⚠️");
+//}
+//else
+//{
+//    if (n < 0)
+//    {
+//        Console.ForegroundColor = ConsoleColor.DarkYellow;
+//        Console.WriteLine("Menfi ededler üçün sadelik yoxlanmır ⚠️");
+//    }
+//    else
+//    {
+//        for (int i = 2; i * i <= n; i++)
+//        {
+//            if (n % i == 0)
+//            {
+//                isPrime = false;
+//                break;
+//            }
+//        }
+
+//        if (isPrime)
+//        {
+//            Console.ForegroundColor = ConsoleColor.Yellow;
+//            Console.WriteLine($"{n} ededi sade ededdir");
+//        }
+//        else
+//        {
+//            Console.ForegroundColor = ConsoleColor.Magenta;
+//            Console.WriteLine($"{n} ededi mürekkeb ededdir");
+//        }
+//    }
+//}
+
+//Console.ResetColor();
+
 #endregion
 
 #endregion
