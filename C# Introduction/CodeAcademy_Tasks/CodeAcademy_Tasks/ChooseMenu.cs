@@ -50,7 +50,8 @@ public class ChooseMenu
             }
         }
     }
-
+    #region Methods
+    #region CheckDivisibleBy3And7
     static void CheckDivisibleBy3And7()
     {
         Console.ForegroundColor = ConsoleColor.Cyan;
@@ -70,7 +71,9 @@ public class ChooseMenu
         }
         Console.ResetColor();
     }
+    #endregion
 
+    #region SumIfBothEven
     static void SumIfBothEven()
     {
         Console.ForegroundColor = ConsoleColor.Cyan;
@@ -95,7 +98,9 @@ public class ChooseMenu
         }
         Console.ResetColor();
     }
+    #endregion
 
+    #region SumOddInRange
     static void SumOddInRange()
     {
         Console.ForegroundColor = ConsoleColor.Cyan;
@@ -135,7 +140,9 @@ public class ChooseMenu
         }
         Console.ResetColor();
     }
+    #endregion
 
+    #region SumOddInArray
     static void SumOddInArray()
     {
         Console.ForegroundColor = ConsoleColor.Cyan;
@@ -177,7 +184,9 @@ public class ChooseMenu
         }
         Console.ResetColor();
     }
+    #endregion
 
+    #region SumEvenInArray
     static void SumEvenInArray()
     {
         Console.ForegroundColor = ConsoleColor.Cyan;
@@ -219,7 +228,9 @@ public class ChooseMenu
         }
         Console.ResetColor();
     }
+    #endregion
 
+    #region CheckPrimeNumber
     static void CheckPrimeNumber()
     {
         Console.ForegroundColor = ConsoleColor.Cyan;
@@ -262,4 +273,6 @@ public class ChooseMenu
         }
         Console.ResetColor();
     }
+    #endregion
+    #endregion
 }
