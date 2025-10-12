@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{2B5195EC-688A-4FC0-9B55-9D5AF474D967}|CodeAcademy_Tasks\\CodeAcademy_Tasks.csproj|c:\\users\\leo\\desktop\\codeacademytasks\\c# introduction\\codeacademy_tasks\\codeacademy_tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B5195EC-688A-4FC0-9B55-9D5AF474D967}|CodeAcademy_Tasks\\CodeAcademy_Tasks.csproj|solutionrelative:codeacademy_tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5195EC-688A-4FC0-9B55-9D5AF474D967}|CodeAcademy_Tasks\\CodeAcademy_Tasks.csproj|c:\\users\\leo\\desktop\\codeacademytasks\\c# introduction\\codeacademy_tasks\\codeacademy_tasks\\choosemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5195EC-688A-4FC0-9B55-9D5AF474D967}|CodeAcademy_Tasks\\CodeAcademy_Tasks.csproj|solutionrelative:codeacademy_tasks\\choosemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +30,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChooseMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\CodeAcademyTasks\\C# Introduction\\CodeAcademy_Tasks\\CodeAcademy_Tasks\\ChooseMenu.cs",
+              "RelativeDocumentMoniker": "CodeAcademy_Tasks\\ChooseMenu.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\CodeAcademyTasks\\C# Introduction\\CodeAcademy_Tasks\\CodeAcademy_Tasks\\ChooseMenu.cs",
+              "RelativeToolTip": "CodeAcademy_Tasks\\ChooseMenu.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T08:23:15.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\CodeAcademyTasks\\C# Introduction\\CodeAcademy_Tasks\\CodeAcademy_Tasks\\Program.cs",
               "RelativeDocumentMoniker": "CodeAcademy_Tasks\\Program.cs",
               "ToolTip": "C:\\Users\\Leo\\Desktop\\CodeAcademyTasks\\C# Introduction\\CodeAcademy_Tasks\\CodeAcademy_Tasks\\Program.cs",
               "RelativeToolTip": "CodeAcademy_Tasks\\Program.cs",
-              "ViewState": "AgIAAL0AAAAAAAAAAAAAAN4AAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-09T16:22:53.624Z",
               "EditorCaption": ""
