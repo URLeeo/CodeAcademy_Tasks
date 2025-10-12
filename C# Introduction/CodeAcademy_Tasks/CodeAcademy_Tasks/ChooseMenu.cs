@@ -231,12 +231,12 @@ public class ChooseMenu
         if (n == 0 || n == 1)
         {
             Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine($"{n} ne sade, ne de mürekkeb ededdir ⚠️");
+            Console.WriteLine($"{n} ne sade, ne de mürekkeb ededdir!");
         }
         else if (n < 0)
         {
             Console.ForegroundColor = ConsoleColor.DarkYellow;
-            Console.WriteLine("Menfi ededler üçün sadelik yoxlanmır ⚠️");
+            Console.WriteLine("Menfi ededler üçün sadelik yoxlanmır!");
         }
         else
         {
