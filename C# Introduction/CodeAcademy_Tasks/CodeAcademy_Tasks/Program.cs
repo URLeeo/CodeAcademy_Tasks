@@ -179,7 +179,7 @@
 
 #endregion
 
-#region Methods, Overriding, Overloading
+#region Methods, Overriding, Overloading, Ref Parameters
 
 #region Verilmis n tam ededinin sade ve ya murekkeb oldugunu tapin.
 
@@ -227,6 +227,48 @@
 //}
 
 //Console.ResetColor();
+
+#endregion
+
+#region Overloaded Methods, Ref Parameters
+using System;
+
+//class Program
+//{
+//    static void Main()
+//    {
+//        Console.Write("Düzbucaqlının enini daxil edin: ");
+//        double a = Convert.ToDouble(Console.ReadLine());
+
+//        Console.Write("Düzbucaqlının uzunluğunu daxil edin: ");
+//        double b = Convert.ToDouble(Console.ReadLine());
+
+//        Console.WriteLine($"Düzbucaqlının sahesi: {Area(ref a, ref b)}");
+
+//        Console.Write("Kvadratın terefini daxil edin: ");
+//        double side = Convert.ToDouble(Console.ReadLine());
+//        Console.WriteLine($"Kvadratın sahesi: {Area(ref side)}");
+
+//        Console.Write("Dairenin radiusunu daxil edin: ");
+//        double r = Convert.ToDouble(Console.ReadLine());
+//        Console.WriteLine($"Dairenin sahesi: {Area(r)}");
+//    }
+
+//    static double Area(ref double a, ref double b)
+//    {
+//        return a * b;
+//    }
+
+//    static double Area(ref double side)
+//    {
+//        return side * side;
+//    }
+
+//    static double Area(double radius, double PI = 3.14)
+//    {
+//        return PI * radius * radius;
+//    }
+//}
 
 #endregion
 
