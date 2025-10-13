@@ -13,6 +13,7 @@ public class ChooseMenu
             Console.WriteLine("4. Arraydaki tek ededlerin cemi");
             Console.WriteLine("5. Arraydaki cut ededlerin cemi");
             Console.WriteLine("6. Eded sade ya murekkebdir?");
+            Console.WriteLine("7. Fiqurlarin sahesini hesablamaq");
             Console.WriteLine("0. Cixis");
             Console.ForegroundColor = ConsoleColor.DarkYellow;
             Console.Write("Seciminizi edin: ");
@@ -39,6 +40,46 @@ public class ChooseMenu
                     break;
                 case 6:
                     CheckPrimeNumber();
+                    break;
+                case 7:
+                    Console.ForegroundColor = ConsoleColor.DarkCyan;
+                    Console.WriteLine("Sahesini hesablamaq istediyiniz fiquru secin::");
+                    Console.ForegroundColor = ConsoleColor.Cyan;
+                    Console.WriteLine("1. Rectangle");
+                    Console.WriteLine("2. Square");
+                    Console.ResetColor();
+
+                    Console.Write("Your choice: ");
+                    int figureChoice = Convert.ToInt32(Console.ReadLine());
+
+                    switch (figureChoice)
+                    {
+                        case 1:
+                            Console.ForegroundColor = ConsoleColor.DarkCyan;
+                            Console.Write("Duzbucaqlinin enini daxil edin :");
+                            double width = Convert.ToDouble(Console.ReadLine());
+                            Console.Write("Duzbucaqlinin enini daxil edin :  ");
+                            double height = Convert.ToDouble(Console.ReadLine());
+                            Console.ForegroundColor = ConsoleColor.Green;
+                            Console.WriteLine($"Rectangle area: {Area(ref width, ref height)}");
+                            Console.ResetColor();
+                            break;
+
+                        case 2:
+                            Console.ForegroundColor = ConsoleColor.DarkCyan;
+                            Console.Write("Kvadratin terefini daxil edin : ");
+                            double side = Convert.ToDouble(Console.ReadLine());
+                            Console.ForegroundColor = ConsoleColor.Green;
+                            Console.WriteLine($"Square area: {Area(ref side)}");
+                            Console.ResetColor();
+                            break;
+
+                        default:
+                            Console.ForegroundColor = ConsoleColor.Red;
+                            Console.WriteLine("Invalid choice!");
+                            Console.ResetColor();
+                            break;
+                    }
                     break;
                 case 0:
                     return;
@@ -274,5 +315,18 @@ public class ChooseMenu
         Console.ResetColor();
     }
     #endregion
+
+    #region Area Methods Overloading
+    static double Area(ref double a, ref double b)
+    {
+        return a * b;
+    }
+
+    static double Area(ref double side)
+    {
+        return side * side;
+    }
+    #endregion
+
     #endregion
 }
