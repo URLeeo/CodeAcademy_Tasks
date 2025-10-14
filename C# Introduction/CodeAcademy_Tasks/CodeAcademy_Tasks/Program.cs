@@ -232,6 +232,9 @@
 
 #region Overloaded Methods, Ref Parameters
 using System;
+using System.Diagnostics.Tracing;
+using System.Globalization;
+using System.Security.Cryptography.X509Certificates;
 
 //class Program
 //{
@@ -270,6 +273,83 @@ using System;
 //    }
 //}
 
+#endregion
+
+#region Capitalize Words in a String
+//class Program
+//{
+//    static void Main()
+//    {
+//        Console.Write("Metni daxil edin: ");
+//        string input = Console.ReadLine();
+//        string result = CapitalizeWords(input);
+//        Console.WriteLine($"Netice: {result}");
+//    }
+
+//    static string CapitalizeWords(string input)
+//    {
+//        string[] words = input.Split(' ');
+//        for (int i = 0; i < words.Length; i++)
+//        {
+//            if (words[i].Length > 0)
+//            {
+//                words[i] = char.ToUpper(words[i][0]) + words[i].Substring(1).ToLower();
+//            }
+//        }
+//        return string.Join(" ", words);
+//    }
+//}
+#endregion
+
+#region Delete Special Characters from a String
+//class Program2
+//{
+//    static void Main()
+//    {
+//        Console.Write("Metni daxil edin: ");
+//        string input = Console.ReadLine();
+//        string result = RemoveSpecialCharacters(input);
+//        Console.WriteLine($"Netice: {result}");
+//    }
+//    static string RemoveSpecialCharacters(string input)
+//    {
+//        string result = "";
+
+//        foreach (char ch in input)
+//        {
+//            if (char.IsLetterOrDigit(ch) || char.IsWhiteSpace(ch))
+//            {
+//                result += ch;
+//            }
+//        }
+
+//        return result;
+//    }
+//}
+#endregion
+
+#region Check if a String ends with .com
+//class Program
+//{
+//    static void Main()
+//    {
+//        Console.Write("Metni daxil edin: ");
+//        string input = Console.ReadLine();
+//        bool result = EndsWithCom(input);
+//        if (result)
+//        {
+//            Console.WriteLine("Daxil edilen metn .com ile bitir.");
+//        }
+//        else
+//        {
+//            Console.WriteLine("Daxil edilen metn .com ile bitmir.");
+//        }
+//    }
+//    static bool EndsWithCom(string input)
+//    {
+//        return input.EndsWith(".com");
+//    }
+//}
 #endregion
 
 #endregion

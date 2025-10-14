@@ -14,6 +14,9 @@ public class ChooseMenu
             Console.WriteLine("5. Arraydaki cut ededlerin cemi");
             Console.WriteLine("6. Eded sade ya murekkebdir?");
             Console.WriteLine("7. Fiqurlarin sahesini hesablamaq");
+            Console.WriteLine("8. Metndeki sozlerin ilk herfini boyutmek");
+            Console.WriteLine("9. Metnden xususi simvollari silmek");
+            Console.WriteLine("10. Metn .com ile bitir mi?");
             Console.WriteLine("0. Cixis");
             Console.ForegroundColor = ConsoleColor.DarkYellow;
             Console.Write("Seciminizi edin: ");
@@ -42,45 +45,18 @@ public class ChooseMenu
                     CheckPrimeNumber();
                     break;
                 case 7:
-                    Console.ForegroundColor = ConsoleColor.DarkCyan;
-                    Console.WriteLine("Sahesini hesablamaq istediyiniz fiquru secin::");
-                    Console.ForegroundColor = ConsoleColor.Cyan;
-                    Console.WriteLine("1. Rectangle");
-                    Console.WriteLine("2. Square");
-                    Console.ResetColor();
-
-                    Console.Write("Your choice: ");
-                    int figureChoice = Convert.ToInt32(Console.ReadLine());
-
-                    switch (figureChoice)
-                    {
-                        case 1:
-                            Console.ForegroundColor = ConsoleColor.DarkCyan;
-                            Console.Write("Duzbucaqlinin enini daxil edin :");
-                            double width = Convert.ToDouble(Console.ReadLine());
-                            Console.Write("Duzbucaqlinin enini daxil edin :  ");
-                            double height = Convert.ToDouble(Console.ReadLine());
-                            Console.ForegroundColor = ConsoleColor.Green;
-                            Console.WriteLine($"Rectangle area: {Area(ref width, ref height)}");
-                            Console.ResetColor();
-                            break;
-
-                        case 2:
-                            Console.ForegroundColor = ConsoleColor.DarkCyan;
-                            Console.Write("Kvadratin terefini daxil edin : ");
-                            double side = Convert.ToDouble(Console.ReadLine());
-                            Console.ForegroundColor = ConsoleColor.Green;
-                            Console.WriteLine($"Square area: {Area(ref side)}");
-                            Console.ResetColor();
-                            break;
-
-                        default:
-                            Console.ForegroundColor = ConsoleColor.Red;
-                            Console.WriteLine("Invalid choice!");
-                            Console.ResetColor();
-                            break;
-                    }
+                    CalculateAreaMenu();
                     break;
+                case 8:
+                    CapitalizeWords();
+                    break;
+                case 9:
+                    RemoveSpecialCharacters();
+                    break;
+                case 10:
+                    EndsWithCom();
+                    break;
+
                 case 0:
                     return;
                 default:
@@ -317,6 +293,49 @@ public class ChooseMenu
     #endregion
 
     #region Area Methods Overloading
+
+    static void CalculateAreaMenu()
+    {
+        Console.ForegroundColor = ConsoleColor.DarkCyan;
+        Console.WriteLine("Sahesini hesablamaq istediyiniz fiquru secin:");
+        Console.ForegroundColor = ConsoleColor.Cyan;
+        Console.WriteLine("1. Rectangle");
+        Console.WriteLine("2. Square");
+        Console.ResetColor();
+
+        Console.Write("Your choice: ");
+        int figureChoice = Convert.ToInt32(Console.ReadLine());
+
+        switch (figureChoice)
+        {
+            case 1:
+                Console.ForegroundColor = ConsoleColor.DarkCyan;
+                Console.Write("Duzbucaqlinin enini daxil edin: ");
+                double width = Convert.ToDouble(Console.ReadLine());
+                Console.Write("Duzbucaqlinin hundurluyunu daxil edin: ");
+                double height = Convert.ToDouble(Console.ReadLine());
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine($"Rectangle area: {Area(ref width, ref height)}");
+                Console.ResetColor();
+                break;
+
+            case 2:
+                Console.ForegroundColor = ConsoleColor.DarkCyan;
+                Console.Write("Kvadratin terefini daxil edin: ");
+                double side = Convert.ToDouble(Console.ReadLine());
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine($"Square area: {Area(ref side)}");
+                Console.ResetColor();
+                break;
+
+            default:
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("Invalid choice!");
+                Console.ResetColor();
+                break;
+        }
+    }
+
     static double Area(ref double a, ref double b)
     {
         return a * b;
@@ -325,6 +344,75 @@ public class ChooseMenu
     static double Area(ref double side)
     {
         return side * side;
+    }
+    #endregion
+
+    #region RemoveSpecialCharacters
+    static void RemoveSpecialCharacters()
+    {
+        Console.ForegroundColor = ConsoleColor.Cyan;
+        Console.Write("Metni daxil edin: ");
+        Console.ResetColor();
+        string input = Console.ReadLine();
+
+        string result = "";
+        foreach (char ch in input)
+        {
+            if (char.IsLetterOrDigit(ch) || char.IsWhiteSpace(ch))
+            {
+                result += ch;
+            }
+        }
+
+        Console.ForegroundColor = ConsoleColor.Green;
+        Console.WriteLine("Netice: " + result);
+        Console.ResetColor();
+    }
+    #endregion
+
+    #region CapitalizeWords
+    static void CapitalizeWords()
+    {
+        Console.ForegroundColor = ConsoleColor.Cyan;
+        Console.Write("Metni daxil edin: ");
+        Console.ResetColor();
+        string input = Console.ReadLine();
+
+        string[] words = input.Split(' ');
+
+        for (int i = 0; i < words.Length; i++)
+        {
+            if (words[i].Length > 0)
+            {
+                words[i] = char.ToUpper(words[i][0]) + words[i].Substring(1).ToLower();
+            }
+        }
+
+        Console.ForegroundColor = ConsoleColor.Green;
+        Console.WriteLine("Netice: " + string.Join(" ", words));
+        Console.ResetColor();
+    }
+    #endregion
+
+    #region EndsWithCom
+    static void EndsWithCom()
+    {
+        Console.ForegroundColor = ConsoleColor.Cyan;
+        Console.Write("Metni daxil edin: ");
+        Console.ResetColor();
+        string input = Console.ReadLine();
+
+        if (input.EndsWith(".com"))
+        {
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine("Daxil edilen metn .com ile bitir.");
+        }
+        else
+        {
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine("Daxil edilen metn .com ile bitmir.");
+        }
+        Console.ResetColor();
     }
     #endregion
 
