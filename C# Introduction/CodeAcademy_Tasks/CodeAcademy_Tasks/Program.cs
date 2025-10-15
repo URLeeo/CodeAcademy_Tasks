@@ -353,3 +353,53 @@ using System.Security.Cryptography.X509Certificates;
 #endregion
 
 #endregion
+
+#region Array, OOP, Class
+
+//class Program
+//{
+//    static void Main()
+//    {
+//        Student student1 = new Student("Leo Merdanly", 20);
+//        student1.groupNo = "APA102";
+//        student1.GetInfo();
+//        Student student2 = new Student("Aslan Mammadzada", 20);
+//        student2.groupNo = "APA101";
+//        student2.GetInfo();
+//    }
+//}
+//public class Student
+//{
+//    public string fullName;
+//    public int age;
+//    public string groupNo;
+//    public void GetInfo()
+//    {
+//        Console.WriteLine($"Full Name: {fullName}, Age: {age}, Group No: {groupNo}");
+//    }
+
+//    public Student()
+//    {
+//        Console.WriteLine("Student Info:");
+//    }
+//    public Student(string FullName, int Age) : this()
+//    {
+//        fullName = FullName;
+//        age = Age;
+//    }
+//}
+
+
+//string[,] array = new string[2, 3]
+//{
+//    { "A", "B", "C" },
+//    { "D", "E", "F" }
+//};
+
+//int[] ints = new int[5] { 1, 2, 3, 4, 5 };
+//Array.Reverse(ints);
+//foreach (var item in ints)
+//{
+//    Console.Write(item + " ");
+//}
+#endregion
