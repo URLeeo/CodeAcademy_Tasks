@@ -231,6 +231,7 @@
 #endregion
 
 #region Overloaded Methods, Ref Parameters
+using CodeAcademy_Tasks.Classes_Methods;
 using System;
 using System.Diagnostics.Tracing;
 using System.Globalization;
@@ -402,4 +403,21 @@ using System.Security.Cryptography.X509Certificates;
 //{
 //    Console.Write(item + " ");
 //}
+#endregion
+
+#region Using Calculate Factorial
+//class Program()
+//{
+//    static void Main()
+//    {
+//        Factorial factorial = new();
+//        Console.WriteLine("Enter the number that you want to calculate factorial for it:");
+//        Console.WriteLine($"Result : {factorial.Calculate(Convert.ToInt32(Console.ReadLine()))}");
+//    }
+//}
+#endregion
+
+#region Using Check Correct Info
+//Info info = new();
+//info.InfoCheck("emil@code.edu.az", "12345");
 #endregion
