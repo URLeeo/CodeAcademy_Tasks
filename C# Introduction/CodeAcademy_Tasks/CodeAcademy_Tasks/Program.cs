@@ -232,6 +232,7 @@
 
 #region Overloaded Methods, Ref Parameters
 using CodeAcademy_Tasks.Classes_Methods;
+using CodeAcademy_Tasks.Implementations;
 using System;
 using System.Diagnostics.Tracing;
 using System.Globalization;
@@ -420,4 +421,16 @@ using System.Security.Cryptography.X509Certificates;
 #region Using Check Correct Info
 //Info info = new();
 //info.InfoCheck("emil@code.edu.az", "12345");
+#endregion
+
+#region Calculation Interface&Method Using
+//Calculation calculation = new();
+
+//calculation.Difference(3,5);
+
+//calculation.Divide(5,0);
+
+//calculation.Multiply(-3,-5);
+
+//calculation.Sum(-3, 5);
 #endregion
