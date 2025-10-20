@@ -232,6 +232,7 @@
 
 #region Overloaded Methods, Ref Parameters
 using CodeAcademy_Tasks.Classes_Methods;
+using CodeAcademy_Tasks.Helpers;
 using CodeAcademy_Tasks.Implementations;
 using System;
 using System.Diagnostics.Tracing;
@@ -433,4 +434,9 @@ using System.Security.Cryptography.X509Certificates;
 //calculation.Multiply(-3,-5);
 
 //calculation.Sum(-3, 5);
+#endregion
+
+#region Square of number extension using
+//int number = 5;
+//number.SquareOfNumber();
 #endregion
