@@ -234,6 +234,7 @@
 using CodeAcademy_Tasks.Classes_Methods;
 using CodeAcademy_Tasks.Helpers;
 using CodeAcademy_Tasks.Implementations;
+using CodeAcademy_Tasks.Models;
 using System;
 using System.Diagnostics.Tracing;
 using System.Globalization;
@@ -439,4 +440,30 @@ using System.Security.Cryptography.X509Certificates;
 #region Square of number extension using
 //int number = 5;
 //number.SquareOfNumber();
+#endregion
+
+#region Upcasting,Params,Enum,Struct,Nullable
+
+//int? a = 5;
+//int b = a ?? 50;
+
+
+//Eagle eagle = new();
+//Animal eagle1 = eagle;
+
+
+//int input = Convert.ToInt32(Console.ReadLine());
+//if (input == 0)
+//{
+//    Console.WriteLine(Enums.Role1);
+//}
+//Console.WriteLine(Enums.Role2);
+//enum Enums
+//{
+//    Role1,
+//    Role2,
+//    Role3,
+//    Role4
+//}
+
 #endregion
