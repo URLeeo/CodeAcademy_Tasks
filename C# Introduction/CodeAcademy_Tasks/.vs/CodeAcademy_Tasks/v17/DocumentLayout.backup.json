@@ -7,24 +7,44 @@
       "RelativeMoniker": "D:0:0:{2B5195EC-688A-4FC0-9B55-9D5AF474D967}|CodeAcademy_Tasks\\CodeAcademy_Tasks.csproj|solutionrelative:codeacademy_tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B5195EC-688A-4FC0-9B55-9D5AF474D967}|CodeAcademy_Tasks\\CodeAcademy_Tasks.csproj|c:\\users\\leo\\desktop\\codeacademytasks\\c# introduction\\codeacademy_tasks\\codeacademy_tasks\\helpers\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B5195EC-688A-4FC0-9B55-9D5AF474D967}|CodeAcademy_Tasks\\CodeAcademy_Tasks.csproj|solutionrelative:codeacademy_tasks\\helpers\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2B5195EC-688A-4FC0-9B55-9D5AF474D967}|CodeAcademy_Tasks\\CodeAcademy_Tasks.csproj|c:\\users\\leo\\desktop\\codeacademytasks\\c# introduction\\codeacademy_tasks\\codeacademy_tasks\\choosemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B5195EC-688A-4FC0-9B55-9D5AF474D967}|CodeAcademy_Tasks\\CodeAcademy_Tasks.csproj|solutionrelative:codeacademy_tasks\\choosemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B5195EC-688A-4FC0-9B55-9D5AF474D967}|CodeAcademy_Tasks\\CodeAcademy_Tasks.csproj|c:\\users\\leo\\desktop\\codeacademytasks\\c# introduction\\codeacademy_tasks\\codeacademy_tasks\\interfaces\\icalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B5195EC-688A-4FC0-9B55-9D5AF474D967}|CodeAcademy_Tasks\\CodeAcademy_Tasks.csproj|solutionrelative:codeacademy_tasks\\interfaces\\icalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B5195EC-688A-4FC0-9B55-9D5AF474D967}|CodeAcademy_Tasks\\CodeAcademy_Tasks.csproj|c:\\users\\leo\\desktop\\codeacademytasks\\c# introduction\\codeacademy_tasks\\codeacademy_tasks\\models\\celsius.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5195EC-688A-4FC0-9B55-9D5AF474D967}|CodeAcademy_Tasks\\CodeAcademy_Tasks.csproj|solutionrelative:codeacademy_tasks\\models\\celsius.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5195EC-688A-4FC0-9B55-9D5AF474D967}|CodeAcademy_Tasks\\CodeAcademy_Tasks.csproj|c:\\users\\leo\\desktop\\codeacademytasks\\c# introduction\\codeacademy_tasks\\codeacademy_tasks\\models\\kelvin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5195EC-688A-4FC0-9B55-9D5AF474D967}|CodeAcademy_Tasks\\CodeAcademy_Tasks.csproj|solutionrelative:codeacademy_tasks\\models\\kelvin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5195EC-688A-4FC0-9B55-9D5AF474D967}|CodeAcademy_Tasks\\CodeAcademy_Tasks.csproj|c:\\users\\leo\\desktop\\codeacademytasks\\c# introduction\\codeacademy_tasks\\codeacademy_tasks\\models\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5195EC-688A-4FC0-9B55-9D5AF474D967}|CodeAcademy_Tasks\\CodeAcademy_Tasks.csproj|solutionrelative:codeacademy_tasks\\models\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5195EC-688A-4FC0-9B55-9D5AF474D967}|CodeAcademy_Tasks\\CodeAcademy_Tasks.csproj|c:\\users\\leo\\desktop\\codeacademytasks\\c# introduction\\codeacademy_tasks\\codeacademy_tasks\\models\\eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5195EC-688A-4FC0-9B55-9D5AF474D967}|CodeAcademy_Tasks\\CodeAcademy_Tasks.csproj|solutionrelative:codeacademy_tasks\\models\\eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5195EC-688A-4FC0-9B55-9D5AF474D967}|CodeAcademy_Tasks\\CodeAcademy_Tasks.csproj|c:\\users\\leo\\desktop\\codeacademytasks\\c# introduction\\codeacademy_tasks\\codeacademy_tasks\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5195EC-688A-4FC0-9B55-9D5AF474D967}|CodeAcademy_Tasks\\CodeAcademy_Tasks.csproj|solutionrelative:codeacademy_tasks\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5195EC-688A-4FC0-9B55-9D5AF474D967}|CodeAcademy_Tasks\\CodeAcademy_Tasks.csproj|c:\\users\\leo\\desktop\\codeacademytasks\\c# introduction\\codeacademy_tasks\\codeacademy_tasks\\classes\u0026methods\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5195EC-688A-4FC0-9B55-9D5AF474D967}|CodeAcademy_Tasks\\CodeAcademy_Tasks.csproj|solutionrelative:codeacademy_tasks\\classes\u0026methods\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B5195EC-688A-4FC0-9B55-9D5AF474D967}|CodeAcademy_Tasks\\CodeAcademy_Tasks.csproj|c:\\users\\leo\\desktop\\codeacademytasks\\c# introduction\\codeacademy_tasks\\codeacademy_tasks\\classes\u0026methods\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B5195EC-688A-4FC0-9B55-9D5AF474D967}|CodeAcademy_Tasks\\CodeAcademy_Tasks.csproj|solutionrelative:codeacademy_tasks\\classes\u0026methods\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B5195EC-688A-4FC0-9B55-9D5AF474D967}|CodeAcademy_Tasks\\CodeAcademy_Tasks.csproj|c:\\users\\leo\\desktop\\codeacademytasks\\c# introduction\\codeacademy_tasks\\codeacademy_tasks\\classes\u0026methods\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B5195EC-688A-4FC0-9B55-9D5AF474D967}|CodeAcademy_Tasks\\CodeAcademy_Tasks.csproj|solutionrelative:codeacademy_tasks\\classes\u0026methods\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B5195EC-688A-4FC0-9B55-9D5AF474D967}|CodeAcademy_Tasks\\CodeAcademy_Tasks.csproj|c:\\users\\leo\\desktop\\codeacademytasks\\c# introduction\\codeacademy_tasks\\codeacademy_tasks\\helpers\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5195EC-688A-4FC0-9B55-9D5AF474D967}|CodeAcademy_Tasks\\CodeAcademy_Tasks.csproj|solutionrelative:codeacademy_tasks\\helpers\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5195EC-688A-4FC0-9B55-9D5AF474D967}|CodeAcademy_Tasks\\CodeAcademy_Tasks.csproj|c:\\users\\leo\\desktop\\codeacademytasks\\c# introduction\\codeacademy_tasks\\codeacademy_tasks\\interfaces\\icalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B5195EC-688A-4FC0-9B55-9D5AF474D967}|CodeAcademy_Tasks\\CodeAcademy_Tasks.csproj|solutionrelative:codeacademy_tasks\\interfaces\\icalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +62,69 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Celsius.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\CodeAcademyTasks\\C# Introduction\\CodeAcademy_Tasks\\CodeAcademy_Tasks\\Models\\Celsius.cs",
+              "RelativeDocumentMoniker": "CodeAcademy_Tasks\\Models\\Celsius.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\CodeAcademyTasks\\C# Introduction\\CodeAcademy_Tasks\\CodeAcademy_Tasks\\Models\\Celsius.cs*",
+              "RelativeToolTip": "CodeAcademy_Tasks\\Models\\Celsius.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T19:51:43.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kelvin.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\CodeAcademyTasks\\C# Introduction\\CodeAcademy_Tasks\\CodeAcademy_Tasks\\Models\\Kelvin.cs",
+              "RelativeDocumentMoniker": "CodeAcademy_Tasks\\Models\\Kelvin.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\CodeAcademyTasks\\C# Introduction\\CodeAcademy_Tasks\\CodeAcademy_Tasks\\Models\\Kelvin.cs*",
+              "RelativeToolTip": "CodeAcademy_Tasks\\Models\\Kelvin.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T19:51:21.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Eagle.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\CodeAcademyTasks\\C# Introduction\\CodeAcademy_Tasks\\CodeAcademy_Tasks\\Models\\Eagle.cs",
+              "RelativeDocumentMoniker": "CodeAcademy_Tasks\\Models\\Eagle.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\CodeAcademyTasks\\C# Introduction\\CodeAcademy_Tasks\\CodeAcademy_Tasks\\Models\\Eagle.cs",
+              "RelativeToolTip": "CodeAcademy_Tasks\\Models\\Eagle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T15:07:50.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\CodeAcademyTasks\\C# Introduction\\CodeAcademy_Tasks\\CodeAcademy_Tasks\\Models\\Bird.cs",
+              "RelativeDocumentMoniker": "CodeAcademy_Tasks\\Models\\Bird.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\CodeAcademyTasks\\C# Introduction\\CodeAcademy_Tasks\\CodeAcademy_Tasks\\Models\\Bird.cs",
+              "RelativeToolTip": "CodeAcademy_Tasks\\Models\\Bird.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T15:07:19.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\CodeAcademyTasks\\C# Introduction\\CodeAcademy_Tasks\\CodeAcademy_Tasks\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "CodeAcademy_Tasks\\Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\CodeAcademyTasks\\C# Introduction\\CodeAcademy_Tasks\\CodeAcademy_Tasks\\Models\\Animal.cs",
+              "RelativeToolTip": "CodeAcademy_Tasks\\Models\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T15:06:43.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Extensions.cs",
               "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\CodeAcademyTasks\\C# Introduction\\CodeAcademy_Tasks\\CodeAcademy_Tasks\\Helpers\\Extensions.cs",
               "RelativeDocumentMoniker": "CodeAcademy_Tasks\\Helpers\\Extensions.cs",
@@ -50,12 +132,11 @@
               "RelativeToolTip": "CodeAcademy_Tasks\\Helpers\\Extensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T17:19:53.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T17:19:53.049Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "ICalculation.cs",
               "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\CodeAcademyTasks\\C# Introduction\\CodeAcademy_Tasks\\CodeAcademy_Tasks\\Interfaces\\ICalculation.cs",
               "RelativeDocumentMoniker": "CodeAcademy_Tasks\\Interfaces\\ICalculation.cs",
@@ -67,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Info.cs",
               "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\CodeAcademyTasks\\C# Introduction\\CodeAcademy_Tasks\\CodeAcademy_Tasks\\Classes\u0026Methods\\Info.cs",
               "RelativeDocumentMoniker": "CodeAcademy_Tasks\\Classes\u0026Methods\\Info.cs",
@@ -79,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Factorial.cs",
               "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\CodeAcademyTasks\\C# Introduction\\CodeAcademy_Tasks\\CodeAcademy_Tasks\\Classes\u0026Methods\\Factorial.cs",
               "RelativeDocumentMoniker": "CodeAcademy_Tasks\\Classes\u0026Methods\\Factorial.cs",
@@ -91,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ChooseMenu.cs",
               "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\CodeAcademyTasks\\C# Introduction\\CodeAcademy_Tasks\\CodeAcademy_Tasks\\ChooseMenu.cs",
               "RelativeDocumentMoniker": "CodeAcademy_Tasks\\ChooseMenu.cs",
@@ -99,7 +180,8 @@
               "RelativeToolTip": "CodeAcademy_Tasks\\ChooseMenu.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAUwEYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T08:23:15.082Z"
+              "WhenOpened": "2025-10-12T08:23:15.082Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -107,9 +189,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\CodeAcademyTasks\\C# Introduction\\CodeAcademy_Tasks\\CodeAcademy_Tasks\\Program.cs",
               "RelativeDocumentMoniker": "CodeAcademy_Tasks\\Program.cs",
-              "ToolTip": "C:\\Users\\Leo\\Desktop\\CodeAcademyTasks\\C# Introduction\\CodeAcademy_Tasks\\CodeAcademy_Tasks\\Program.cs",
-              "RelativeToolTip": "CodeAcademy_Tasks\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALgBAAAaAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\CodeAcademyTasks\\C# Introduction\\CodeAcademy_Tasks\\CodeAcademy_Tasks\\Program.cs*",
+              "RelativeToolTip": "CodeAcademy_Tasks\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANkBAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-09T16:22:53.624Z",
               "EditorCaption": ""

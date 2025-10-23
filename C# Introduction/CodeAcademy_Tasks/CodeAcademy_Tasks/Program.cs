@@ -467,3 +467,9 @@ using System.Security.Cryptography.X509Certificates;
 //}
 
 #endregion
+
+#region K -> C usage
+//Celsius c = new Celsius(25);
+//Kelvin k = c;
+//Console.WriteLine(k.Degree);
+#endregion
