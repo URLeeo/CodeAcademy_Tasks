@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeAcademy_Tasks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80a36985dfd841ab4afecf102524f6ea649a9203")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6aefee0e68a17e2a96b219086ceda3a07dc2e21b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeAcademy_Tasks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeAcademy_Tasks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

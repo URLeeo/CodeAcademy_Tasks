@@ -574,3 +574,9 @@ using System.Security.Cryptography.X509Certificates;
 //    }
 //}
 #endregion
+
+#region User Login Exceptions Usage
+//AuthService authService = new();
+//authService.Register("Leo","Leo123");
+//authService.Login("Leo","Leo123");
+#endregion
