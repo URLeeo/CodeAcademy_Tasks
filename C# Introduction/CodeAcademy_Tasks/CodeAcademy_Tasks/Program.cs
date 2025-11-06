@@ -580,3 +580,125 @@ using System.Security.Cryptography.X509Certificates;
 //authService.Register("Leo","Leo123");
 //authService.Login("Leo","Leo123");
 #endregion
+
+#region Simple Console App
+//using System;
+//using System.Collections.Generic;
+
+//namespace AnimalSoundApp
+//{
+//    interface IAnimal
+//    {
+//        string Name { get; }
+//        void MakeSound();
+//    }
+
+//    class Dog : IAnimal
+//    {
+//        public string Name { get; private set; }
+
+//        public Dog(string name)
+//        {
+//            Name = name;
+//        }
+
+//        public void MakeSound()
+//        {
+//            Console.ForegroundColor = ConsoleColor.Yellow;
+//            Console.WriteLine($"{Name} says: Woof!");
+//            Console.ResetColor();
+//        }
+//    }
+
+//    class Cat : IAnimal
+//    {
+//        public string Name { get; private set; }
+
+//        public Cat(string name)
+//        {
+//            Name = name;
+//        }
+
+//        public void MakeSound()
+//        {
+//            Console.ForegroundColor = ConsoleColor.Cyan;
+//            Console.WriteLine($"{Name} says: Meow!");
+//            Console.ResetColor();
+//        }
+//    }
+
+//    class Cow : IAnimal
+//    {
+//        public string Name { get; private set; }
+
+//        public Cow(string name)
+//        {
+//            Name = name;
+//        }
+
+//        public void MakeSound()
+//        {
+//            Console.ForegroundColor = ConsoleColor.Green;
+//            Console.WriteLine($"{Name} says: Moo!");
+//            Console.ResetColor();
+//        }
+//    }
+
+//    class Program
+//    {
+//        static void Main(string[] args)
+//        {
+//            List<IAnimal> animals = new List<IAnimal>
+//            {
+//                new Dog("Dog"),
+//                new Cat("Cat"),
+//                new Cow("Cow")
+//            };
+
+//            while (true)
+//            {
+//                Console.Clear();
+//                Console.ForegroundColor = ConsoleColor.White;
+//                Console.WriteLine("=== Animal Sound App ===\n");
+//                Console.WriteLine("Choose an animal:");
+//                Console.WriteLine("1 - Dog");
+//                Console.WriteLine("2 - Cat");
+//                Console.WriteLine("3 - Cow");
+//                Console.WriteLine("0 - Exit");
+//                Console.ResetColor();
+
+//                Console.Write("\nEnter your choice: ");
+//                string input = Console.ReadLine();
+
+//                Console.WriteLine();
+
+//                switch (input)
+//                {
+//                    case "1":
+//                        animals[0].MakeSound();
+//                        break;
+//                    case "2":
+//                        animals[1].MakeSound();
+//                        break;
+//                    case "3":
+//                        animals[2].MakeSound();
+//                        break;
+//                    case "0":
+//                        Console.ForegroundColor = ConsoleColor.DarkYellow;
+//                        Console.WriteLine("Goodbye!");
+//                        Console.ResetColor();
+//                        return;
+//                    default:
+//                        Console.ForegroundColor = ConsoleColor.Red;
+//                        Console.WriteLine("Invalid choice! Try again.");
+//                        Console.ResetColor();
+//                        break;
+//                }
+
+//                Console.WriteLine("\nPress any key to continue...");
+//                Console.ReadKey();
+//            }
+//        }
+//    }
+//}
+#endregion
