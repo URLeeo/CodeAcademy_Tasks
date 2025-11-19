@@ -1,0 +1,66 @@
+:root{
+	--cyan: #43cfe1;
+	--cyan-dark: #37b8ce;
+	--bg-dark: #12032b;
+}
+
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{height:100%}
+body{
+	font-family: 'Open Sans', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+	background: linear-gradient(135deg,#12032b 0%, #2b0b62 45%, #ff3d6e 100%);
+	display:flex;align-items:center;justify-content:center;
+	-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;
+}
+
+.hero{width:92%;max-width:1100px}
+
+.cyan-panel{
+	background:var(--cyan);
+	padding:80px 110px;
+	display:flex;align-items:center;justify-content:center;
+	box-shadow: 0 60px 40px -40px rgba(0,0,0,0.55);
+}
+
+.login-box{
+	background:#fff;
+	width:420px;
+	padding:34px 36px;
+	box-shadow: 0 2px 0 rgba(0,0,0,0.06);
+	border:1px solid rgba(0,0,0,0.07);
+}
+
+.login-box h2{
+	color:var(--cyan-dark);
+	font-weight:300;
+	font-size:20px;
+	margin-bottom:22px;
+}
+
+.login-form input{
+	width:100%;
+	padding:12px 14px;
+	margin-bottom:18px;
+	border:1px solid #e6e6e6;
+	font-size:15px;
+}
+
+.login-form input:focus{outline:none;border-color:var(--cyan);box-shadow:0 0 0 3px rgba(67,207,225,0.06)}
+
+.btn{
+	width:100%;
+	padding:12px 14px;
+	background:var(--cyan);
+	color:#fff;
+	border:none;
+	font-weight:600;
+	cursor:pointer;
+}
+
+.btn:hover{opacity:0.95}
+
+@media (max-width:680px){
+	.cyan-panel{padding:40px 24px}
+	.login-box{width:100%;padding:24px}
+}
+

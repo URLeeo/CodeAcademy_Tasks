@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width,initial-scale=1" />
+	<title>Log in</title>
+	<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+	<div class="page">
+		<div class="login-card">
+			<h1 class="title">Log in</h1>
+			<div id="login-alert" class="alert" role="alert" aria-hidden="true">Sorry. That login is incorrect</div>
+
+			<form class="login-form" action="#" novalidate>
+				<label for="username">Username</label>
+				<input id="username" name="username" type="text" autocomplete="username">
+
+				<label for="password">Password</label>
+				<input id="password" name="password" type="password" autocomplete="current-password">
+
+				<button type="submit" class="btn">Log In</button>
+			</form>
+			<script>
+			(function(){
+				const form = document.querySelector('.login-form');
+				const alertBox = document.getElementById('login-alert');
+				form.addEventListener('submit', function(e){
+					e.preventDefault();
+					const username = form.username.value.trim();
+					const password = form.password.value;
+					const valid = (username === 'user' && password === 'password');
+					if(!valid){
+						alertBox.classList.add('show');
+						alertBox.setAttribute('aria-hidden','false');
+						form.username.focus();
+					} else {
+						alertBox.classList.remove('show');
+						alertBox.setAttribute('aria-hidden','true');
+						window.alert('Logged in (demo)');
+					}
+				});
+			})();
+			</script>
+		</div>
+	</div>
+</body>
+</html>
+

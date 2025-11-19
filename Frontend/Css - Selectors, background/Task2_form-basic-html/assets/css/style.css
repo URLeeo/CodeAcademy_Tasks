@@ -1,0 +1,88 @@
+/* Basic reset and layout */
+* { box-sizing: border-box; }
+html, body { height: 100%; }
+body {
+	margin: 0;
+	font-family: "Times New Roman", Times, serif;
+	background: #eaf7fb; /* light blue page background */
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 40px 20px;
+}
+
+/* Form card: white centered box */
+.form-card,
+.form-wrapper,
+form {
+	background: #ffffff;
+	width: 560px;
+	max-width: 96%;
+	padding: 28px 36px;
+	box-shadow: 0 0 0 1px rgba(0,0,0,0.04), 0 8px 16px rgba(0,0,0,0.06);
+	border-radius: 2px;
+	text-align: left;
+}
+
+/* Heading */
+.form-card h1,
+form h1 {
+	margin: 0 0 16px;
+	font-size: 16px;
+	text-align: center;
+	font-weight: 700;
+}
+
+/* Form rows and labels */
+.form-row { margin-bottom: 10px; }
+label { display: block; font-size: 13px; margin-bottom: 6px; }
+
+/* Inputs: narrow, compact like the screenshot */
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+select,
+textarea {
+	display: block;
+	width: 220px; /* narrow inputs as in the design */
+	max-width: 100%;
+	padding: 4px 6px;
+	border: 1px solid #bfbfbf;
+	background: #fff;
+	font-family: inherit;
+	font-size: 13px;
+}
+
+/* Smaller inputs used for year/age fields */
+input.small, .small-input { width: 70px; }
+
+/* Fieldset / groups */
+fieldset { border: 0; padding: 0; margin: 0 0 10px; }
+legend { font-weight: 600; margin-bottom: 6px; font-size: 13px; }
+.checkbox-list label, .radio-list label { display:block; font-size:13px; margin-bottom:4px; }
+
+/* Textarea sizing */
+textarea { height: 68px; resize: vertical; }
+
+/* Submit button centered and blue */
+input[type="submit"], button[type="submit"] {
+	display: block;
+	margin: 16px auto 0;
+	padding: 6px 18px;
+	background: #2b7be9;
+	color: #fff;
+	border: 1px solid rgba(0,0,0,0.06);
+	cursor: pointer;
+	border-radius: 2px;
+	font-size: 13px;
+}
+
+/* Small helper: center the form when HTML uses a wrapper */
+.center { display:flex; justify-content:center; }
+
+/* Responsive adjustments */
+@media (max-width: 420px) {
+	.form-card, form { padding: 18px; }
+	input[type="text"], textarea, select { width: 100%; }
+}
+

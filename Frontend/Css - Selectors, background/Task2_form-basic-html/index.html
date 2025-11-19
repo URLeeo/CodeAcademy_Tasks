@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>Application form</title>
+		<link rel="stylesheet" href="assets/css/style.css">
+	</head>
+	<body>
+		<div class="form-card">
+			<form action="#" method="post">
+				<h1>Application form</h1>
+
+				<div class="form-row">
+					<label for="first">First name</label>
+					<input id="first" name="first" type="text">
+				</div>
+
+				<div class="form-row">
+					<label for="last">Last name</label>
+					<input id="last" name="last" type="text">
+				</div>
+
+				<div class="form-row">
+					<label for="address">Address</label>
+					<input id="address" name="address" type="text">
+				</div>
+
+				<fieldset>
+					<legend>Gender</legend>
+					<div class="radio-list">
+						<label><input type="radio" name="gender" value="male"> Male</label>
+						<label><input type="radio" name="gender" value="female"> Female</label>
+						<label><input type="radio" name="gender" value="other"> Other</label>
+					</div>
+				</fieldset>
+
+				<fieldset>
+					<legend>Select interests</legend>
+					<div class="checkbox-list">
+						<label><input type="checkbox" name="interests" value="coding"> Coding</label>
+						<label><input type="checkbox" name="interests" value="music"> Music</label>
+						<label><input type="checkbox" name="interests" value="sports"> Sports</label>
+						<label><input type="checkbox" name="interests" value="reading"> Reading</label>
+					</div>
+				</fieldset>
+
+				<div class="form-row">
+					<label for="bio">Bio</label>
+					<textarea id="bio" name="bio"></textarea>
+				</div>
+
+				<div class="form-row">
+					<label for="year">Year</label>
+					<input id="year" name="year" class="small-input" type="text">
+				</div>
+
+				<div class="form-row">
+					<label for="age">Age</label>
+					<input id="age" name="age" class="small-input" type="text">
+				</div>
+
+				<input type="submit" value="Submit">
+			</form>
+		</div>
+	</body>
+</html>
+
