@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Calculator</title>
+    <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+<body>
+    <main class="calculator">
+        <h1 class="title">Sadə Hesablayıcı</h1>
+
+        <div class="row inputs">
+            <div class="field">
+                <label for="num1">Number-1</label>
+                <select id="num1" class="input-number">
+                    <option value="">Number-1</option>
+                    <option value="0">0</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="6">6</option>
+                    <option value="7">7</option>
+                    <option value="8">8</option>
+                    <option value="9">9</option>
+                    <option value="10">10</option>
+                </select>
+            </div>
+
+            <div class="field">
+                <label for="num2">Number-2</label>
+                <input id="num2" type="number" class="input-number" placeholder="Number-2">
+            </div>
+        </div>
+
+        <div class="row buttons">
+            <button id="add" class="btn blue">Toplama</button>
+            <button id="sub" class="btn red">Cixma</button>
+            <button id="mul" class="btn green">Vurma</button>
+            <button id="div" class="btn yellow">Bolme</button>
+        </div>
+
+        <div class="row result">
+            <input id="result" type="text" placeholder="neticeni burani yazdirin" readonly>
+        </div>
+    </main>
+
+    <script src="./assets/js/script.js"></script>
+</body>
+</html>
