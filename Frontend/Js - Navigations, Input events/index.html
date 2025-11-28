@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Navigation Task</title>
+  </head>
+  <body>
+    <button id="googleBtn">Go to Google</button>
+    <button id="backBtn">Go Back</button>
+
+    <script>
+      document.getElementById("googleBtn").addEventListener("click", () => {
+        window.location.href = "https://www.google.com";
+      });
+
+      document.getElementById("backBtn").addEventListener("click", () => {
+        window.history.back();
+      });
+    </script>
+  </body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Input Event Task</title>
+  </head>
+  <body>
+    <input type="text" id="textInput" placeholder="Type something..." />
+    <p id="preview">Your text will appear here</p>
+
+    <script>
+      const input1 = document.getElementById("textInput");
+      const preview = document.getElementById("preview");
+
+      input1.addEventListener("input", () => {
+        preview.textContent = input1.value;
+      });
+    </script>
+  </body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Email Validation</title>
+  </head>
+  <body>
+    <input type="text" id="emailInput" placeholder="Enter your email" />
+    <button id="submitBtn">Submit</button>
+    <p id="message"></p>
+
+    <script>
+      const emailInput = document.getElementById("emailInput");
+      const submitBtn = document.getElementById("submitBtn");
+      const message = document.getElementById("message");
+
+      submitBtn.addEventListener("click", () => {
+        if (emailInput.value.includes("@")) {
+          message.textContent = "Valid email";
+          message.style.color = "green";
+        } else {
+          message.textContent = "Invalid email";
+          message.style.color = "red";
+        }
+      });
+    </script>
+  </body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Focus & Blur Event</title>
+    <style>
+      input {
+        border: 2px solid gray;
+        padding: 5px;
+      }
+    </style>
+  </head>
+  <body>
+    <input type="text" placeholder="Focus on me" id="focusInput" />
+
+    <script>
+      const input = document.getElementById("focusInput");
+
+      input.addEventListener("focus", () => {
+        input.style.borderColor = "blue";
+      });
+
+      input.addEventListener("blur", () => {
+        input.style.borderColor = "gray";
+      });
+    </script>
+  </body>
+</html>
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Beforeunload Event</title>
+  </head>
+  <body>
+    <h2>Try closing or refreshing the page</h2>
+
+    <script>
+      window.addEventListener("beforeunload", (event) => {
+        event.preventDefault();
+        event.returnValue = "";
+      });
+    </script>
+  </body>
+</html>
