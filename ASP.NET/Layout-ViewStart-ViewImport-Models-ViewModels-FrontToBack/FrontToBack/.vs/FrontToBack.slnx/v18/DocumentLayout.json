@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\FrontToBack\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\layout-viewstart-viewimport-models-viewmodels-fronttoback\\fronttoback\\fronttoback\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|solutionrelative:fronttoback\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\layout-viewstart-viewimport-models-viewmodels-fronttoback\\fronttoback\\fronttoback\\controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|solutionrelative:fronttoback\\controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\layout-viewstart-viewimport-models-viewmodels-fronttoback\\fronttoback\\fronttoback\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|solutionrelative:fronttoback\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\layout-viewstart-viewimport-models-viewmodels-fronttoback\\fronttoback\\fronttoback\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|solutionrelative:fronttoback\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\layout-viewstart-viewimport-models-viewmodels-fronttoback\\fronttoback\\fronttoback\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|solutionrelative:fronttoback\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\layout-viewstart-viewimport-models-viewmodels-fronttoback\\fronttoback\\fronttoback\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|solutionrelative:fronttoback\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -25,26 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\layout-viewstart-viewimport-models-viewmodels-fronttoback\\fronttoback\\fronttoback\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|solutionrelative:fronttoback\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\layout-viewstart-viewimport-models-viewmodels-fronttoback\\fronttoback\\fronttoback\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|solutionrelative:fronttoback\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\layout-viewstart-viewimport-models-viewmodels-fronttoback\\fronttoback\\fronttoback\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|solutionrelative:fronttoback\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\layout-viewstart-viewimport-models-viewmodels-fronttoback\\fronttoback\\fronttoback\\controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|solutionrelative:fronttoback\\controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\layout-viewstart-viewimport-models-viewmodels-fronttoback\\fronttoback\\fronttoback\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|solutionrelative:fronttoback\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\layout-viewstart-viewimport-models-viewmodels-fronttoback\\fronttoback\\fronttoback\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|solutionrelative:fronttoback\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\layout-viewstart-viewimport-models-viewmodels-fronttoback\\fronttoback\\fronttoback\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -74,50 +74,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\Views\\Work\\Index.cshtml",
-              "RelativeDocumentMoniker": "FrontToBack\\Views\\Work\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\Views\\Work\\Index.cshtml",
-              "RelativeToolTip": "FrontToBack\\Views\\Work\\Index.cshtml",
-              "ViewState": "AgIAAIwAAAAAAAAAAAAqwLMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-09T19:53:34.374Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\Views\\Pricing\\Index.cshtml",
-              "RelativeDocumentMoniker": "FrontToBack\\Views\\Pricing\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\Views\\Pricing\\Index.cshtml",
-              "RelativeToolTip": "FrontToBack\\Views\\Pricing\\Index.cshtml",
-              "ViewState": "AgIAAMAAAAAAAAAAAAAqwOQAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-09T19:53:05.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\Views\\Contact\\Index.cshtml",
-              "RelativeDocumentMoniker": "FrontToBack\\Views\\Contact\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\Views\\Contact\\Index.cshtml",
-              "RelativeToolTip": "FrontToBack\\Views\\Contact\\Index.cshtml",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAAAHEAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-09T19:52:52.326Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "ContactController.cs",
               "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\Controllers\\ContactController.cs",
               "RelativeDocumentMoniker": "FrontToBack\\Controllers\\ContactController.cs",
@@ -130,46 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PricingController.cs",
-              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\Controllers\\PricingController.cs",
-              "RelativeDocumentMoniker": "FrontToBack\\Controllers\\PricingController.cs",
-              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\Controllers\\PricingController.cs",
-              "RelativeToolTip": "FrontToBack\\Controllers\\PricingController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T19:52:27.269Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "WorkController.cs",
-              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\Controllers\\WorkController.cs",
-              "RelativeDocumentMoniker": "FrontToBack\\Controllers\\WorkController.cs",
-              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\Controllers\\WorkController.cs",
-              "RelativeToolTip": "FrontToBack\\Controllers\\WorkController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T19:52:14.593Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\Views\\About\\Index.cshtml",
-              "RelativeDocumentMoniker": "FrontToBack\\Views\\About\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\Views\\About\\Index.cshtml",
-              "RelativeToolTip": "FrontToBack\\Views\\About\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-09T19:40:43.262Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "AboutController.cs",
               "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\Controllers\\AboutController.cs",
               "RelativeDocumentMoniker": "FrontToBack\\Controllers\\AboutController.cs",
@@ -182,7 +108,95 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FrontToBack\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FrontToBack\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:44:54.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PricingController.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\Controllers\\PricingController.cs",
+              "RelativeDocumentMoniker": "FrontToBack\\Controllers\\PricingController.cs",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\Controllers\\PricingController.cs",
+              "RelativeToolTip": "FrontToBack\\Controllers\\PricingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T19:52:27.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkController.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\Controllers\\WorkController.cs",
+              "RelativeDocumentMoniker": "FrontToBack\\Controllers\\WorkController.cs",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\Controllers\\WorkController.cs",
+              "RelativeToolTip": "FrontToBack\\Controllers\\WorkController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T19:52:14.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\Views\\Work\\Index.cshtml",
+              "RelativeDocumentMoniker": "FrontToBack\\Views\\Work\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\Views\\Work\\Index.cshtml",
+              "RelativeToolTip": "FrontToBack\\Views\\Work\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T19:53:34.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "FrontToBack\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "FrontToBack\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAHEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T19:52:52.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\Views\\Pricing\\Index.cshtml",
+              "RelativeDocumentMoniker": "FrontToBack\\Views\\Pricing\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\Views\\Pricing\\Index.cshtml",
+              "RelativeToolTip": "FrontToBack\\Views\\Pricing\\Index.cshtml",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAqwOQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T19:53:05.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "FrontToBack\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "FrontToBack\\Views\\About\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T19:40:43.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "FrontToBack\\Views\\Shared\\_Layout.cshtml",
@@ -190,12 +204,11 @@
               "RelativeToolTip": "FrontToBack\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAACsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-09T19:09:24.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-09T19:09:24.312Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "FrontToBack\\Views\\Home\\Index.cshtml",
@@ -203,8 +216,7 @@
               "RelativeToolTip": "FrontToBack\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-09T19:10:53.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-09T19:10:53.871Z"
             },
             {
               "$type": "Document",
@@ -232,19 +244,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "FrontToBack\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "FrontToBack\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T18:44:54.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\FrontToBack\\FrontToBack\\appsettings.json",
@@ -265,8 +264,7 @@
               "RelativeToolTip": "FrontToBack\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-09T18:45:43.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-09T18:45:43.586Z"
             },
             {
               "$type": "Document",
@@ -278,12 +276,7 @@
               "RelativeToolTip": "FrontToBack\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T18:44:34.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "WhenOpened": "2025-12-09T18:44:34.442Z"
             }
           ]
         }
