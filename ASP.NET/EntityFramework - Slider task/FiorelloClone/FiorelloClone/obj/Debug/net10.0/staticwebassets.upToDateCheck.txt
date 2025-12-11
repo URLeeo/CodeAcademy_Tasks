@@ -64,9 +64,9 @@ wwwroot\sass\sections\_slider.scss
 wwwroot\sass\sections\_subscribe.scss
 wwwroot\sass\sections\_tab.scss
 wwwroot\sass\style.scss
-C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task\FiorelloClone\FiorelloClone\wwwroot\owlcarousel\owl.theme.default.min.css
-C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task\FiorelloClone\FiorelloClone\wwwroot\owlcarousel\owl.carousel.min.js
-C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task\FiorelloClone\FiorelloClone\wwwroot\owlcarousel\owl.carousel.min.css
-C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task\FiorelloClone\FiorelloClone\wwwroot\js\script.js
-C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task\FiorelloClone\FiorelloClone\wwwroot\css\style.css.map
 C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task\FiorelloClone\FiorelloClone\wwwroot\css\style.css
+C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task\FiorelloClone\FiorelloClone\wwwroot\css\style.css.map
+C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task\FiorelloClone\FiorelloClone\wwwroot\js\script.js
+C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task\FiorelloClone\FiorelloClone\wwwroot\owlcarousel\owl.carousel.min.css
+C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task\FiorelloClone\FiorelloClone\wwwroot\owlcarousel\owl.carousel.min.js
+C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task\FiorelloClone\FiorelloClone\wwwroot\owlcarousel\owl.theme.default.min.css
