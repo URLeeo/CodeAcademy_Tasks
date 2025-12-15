@@ -1,4 +1,7 @@
-﻿<!-- Start Service -->
+﻿@model FrontToBack.ViewModels.HomeVM
+
+
+<!-- Start Service -->
 <section class="service-wrapper py-3">
     <div class="container-fluid pb-3">
         <div class="row">
@@ -17,19 +20,24 @@
 
     <div class="service-tag py-5 bg-secondary">
         <div class="col-md-12">
-            <ul class="nav d-flex justify-content-center">
+            <ul class="nav d-flex justify-content-center" id="ourwork-categories">
                 <li class="nav-item mx-lg-4">
-                    <a class="filter-btn nav-link btn-outline-primary active shadow rounded-pill text-light px-4 light-300" href="#" data-filter=".project">All</a>
+                    <a class="filter-btn nav-link btn-outline-primary active shadow rounded-pill text-light px-4 light-300"
+                       href="#" data-filter="all">Test</a>
                 </li>
-                <li class="nav-item mx-lg-4">
-                    <a class="filter-btn nav-link btn-outline-primary rounded-pill text-light px-4 light-300" href="#" data-filter=".graphic">Graphics</a>
-                </li>
-                <li class="filter-btn nav-item mx-lg-4">
-                    <a class="filter-btn nav-link btn-outline-primary rounded-pill text-light px-4 light-300" href="#" data-filter=".ui">UI/UX</a>
-                </li>
-                <li class="nav-item mx-lg-4">
-                    <a class="filter-btn nav-link btn-outline-primary rounded-pill text-light px-4 light-300" href="#" data-filter=".branding">Branding</a>
-                </li>
+
+                @if (Model?.Categories != null && Model.Categories.Any())
+                {
+                    foreach (var cat in Model.Categories)
+                    {
+                        <li class="nav-item mx-lg-4">
+                            <a class="filter-btn nav-link btn-outline-primary rounded-pill text-light px-4 light-300"
+                               href="#" data-filter="@cat.Id">
+                                @cat.Name
+                            </a>
+                        </li>
+                    }
+                }
             </ul>
         </div>
     </div>
@@ -37,107 +45,56 @@
 </section>
 
 <section class="container overflow-hidden py-5">
-    <div class="row gx-5 gx-sm-3 gx-lg-5 gy-lg-5 gy-3 pb-3 projects">
+    <div class="row gx-5 gx-sm-3 gx-lg-5 gy-lg-5 gy-3 pb-3 projects" id="projects">
 
-        <!-- Start Recent Work -->
-        <div class="col-xl-3 col-md-4 col-sm-6 project ui branding">
-            <a href="#" class="service-work card border-0 text-white shadow-sm overflow-hidden mx-5 m-sm-0">
-                <img class="service card-img" src="~/assets/img/services-01.jpg" alt="Card image">
-                <div class="service-work-vertical card-img-overlay d-flex align-items-end">
-                    <div class="service-work-content text-left text-light">
-                        <span class="btn btn-outline-light rounded-pill mb-lg-3 px-lg-4 light-300">UI/UX design</span>
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing</p>
-                    </div>
+        @if (Model?.OurWorks != null && Model.OurWorks.Any())
+        {
+            foreach (var work in Model.OurWorks)
+            {
+                <div class="col-xl-3 col-md-4 col-sm-6 project"
+                     data-category-id="@(work.CategoryId?.ToString() ?? "none")">
+                    <a href="#" class="service-work card border-0 text-white shadow-sm overflow-hidden ">
+                        <img class="card-img" src="~/assets/img/@work.ImageUrl" alt="@work.Title">
+                        <div class="service-work-vertical card-img-overlay d-flex align-items-end">
+                            <div class="service-work-content text-left text-light">
+                                <span class="btn btn-outline-light rounded-pill mb-lg-3 px-lg-4 light-300">
+                                    @work.Title
+                                </span>
+                                <p class="card-text">@work.Description</p>
+                            </div>
+                        </div>
+                    </a>
                 </div>
-            </a>
-        </div><!-- End Recent Work -->
-        <!-- Start Recent Work -->
-        <div class="col-xl-3 col-md-4 col-sm-6 project ui graphic">
-            <a href="#" class="service-work card border-0 text-white shadow-sm overflow-hidden mx-5 m-sm-0">
-                <img class="card-img" src="~/assets/img/services-02.jpg" alt="Card image">
-                <div class="service-work-vertical card-img-overlay d-flex align-items-end">
-                    <div class="service-work-content text-left text-light">
-                        <span class="btn btn-outline-light rounded-pill mb-lg-3 px-lg-4 light-300">Social Media</span>
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing</p>
-                    </div>
-                </div>
-            </a>
-        </div><!-- End Recent Work -->
-        <!-- Start Recent Work -->
-        <div class="col-xl-3 col-md-4 col-sm-6 project branding">
-            <a href="#" class="service-work card border-0 text-white shadow-sm overflow-hidden mx-5 m-sm-0">
-                <img class="card-img" src="~/assets/img/services-03.jpg" alt="Card image">
-                <div class="service-work-vertical card-img-overlay d-flex align-items-end">
-                    <div class="service-work-content text-left text-light">
-                        <span class="btn btn-outline-light rounded-pill mb-lg-3 px-lg-4 light-300">Marketing</span>
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing</p>
-                    </div>
-                </div>
-            </a>
-        </div><!-- End Recent Work -->
-        <!-- Start Recent Work -->
-        <div class="col-xl-3 col-md-4 col-sm-6 project ui graphic">
-            <a href="#" class="service-work card border-0 text-white shadow-sm overflow-hidden mx-5 m-sm-0">
-                <img class="card-img" src="~/assets/img/services-04.jpg" alt="Card image">
-                <div class="service-work-vertical card-img-overlay d-flex align-items-end">
-                    <div class="service-work-content text-left text-light">
-                        <span class="btn btn-outline-light rounded-pill mb-lg-3 px-lg-4 light-300">Graphic</span>
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing</p>
-                    </div>
-                </div>
-            </a>
-        </div><!-- End Recent Work -->
-        <!-- Start Recent Work -->
-        <div class="col-xl-3 col-md-4 col-sm-6 project ui graphic">
-            <a href="#" class="service-work card border-0 text-white shadow-sm overflow-hidden mx-5 m-sm-0">
-                <img class="card-img" src="~/assets/img/services-05.jpg" alt="Card image">
-                <div class="service-work-vertical card-img-overlay d-flex align-items-end">
-                    <div class="service-work-content text-left text-light">
-                        <span class="btn btn-outline-light rounded-pill mb-lg-3 px-lg-4 light-300">Digtal Marketing</span>
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing</p>
-                    </div>
-                </div>
-            </a>
-        </div><!-- End Recent Work -->
-        <!-- Start Recent Work -->
-        <div class="col-xl-3 col-md-4 col-sm-6 project branding">
-            <a href="#" class="service-work card border-0 text-white shadow-sm overflow-hidden mx-5 m-sm-0">
-                <img class="card-img" src="~/assets/img/services-06.jpg" alt="Card image">
-                <div class="service-work-vertical card-img-overlay d-flex align-items-end">
-                    <div class="service-work-content text-left text-light">
-                        <span class="btn btn-outline-light rounded-pill mb-lg-3 px-lg-4 light-300">Market Research</span>
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing</p>
-                    </div>
-                </div>
-            </a>
-        </div><!-- End Recent Work -->
-        <!-- Start Recent Work -->
-        <div class="col-xl-3 col-md-4 col-sm-6 project branding">
-            <a href="#" class="service-work card border-0 text-white shadow-sm overflow-hidden mx-5 m-sm-0">
-                <img class="card-img" src="~/assets/img/services-07.jpg" alt="Card image">
-                <div class="service-work-vertical card-img-overlay d-flex align-items-end">
-                    <div class="service-work-content text-left text-light">
-                        <span class="btn btn-outline-light rounded-pill mb-lg-3 px-lg-4 light-300">Business</span>
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing</p>
-                    </div>
-                </div>
-            </a>
-        </div><!-- End Recent Work -->
-        <!-- Start Recent Work -->
-        <div class="col-xl-3 col-md-4 col-sm-6 project ui graphic branding">
-            <a href="#" class="service-work card border-0 text-white shadow-sm overflow-hidden mx-5 m-sm-0">
-                <img class="card-img" src="~/assets/img/services-08.jpg" alt="Card image">
-                <div class="service-work-vertical card-img-overlay d-flex align-items-end">
-                    <div class="service-work-content text-left text-light">
-                        <span class="btn btn-outline-light rounded-pill mb-lg-3 px-lg-4 light-300">Branding</span>
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing</p>
-                    </div>
-                </div>
-            </a>
-        </div><!-- End Recent Work -->
+            }
+        }
 
     </div>
 </section>
+
+<script>
+    (function () {
+        const buttons = document.querySelectorAll("#ourwork-categories .filter-btn");
+        const items = document.querySelectorAll("#projects .project");
+
+        buttons.forEach(btn => {
+            btn.addEventListener("click", function (e) {
+                e.preventDefault();
+                e.stopPropagation();
+
+                buttons.forEach(x => x.classList.remove("active"));
+                this.classList.add("active");
+
+                const filter = this.getAttribute("data-filter");
+
+                items.forEach(item => {
+                    const catId = item.getAttribute("data-category-id");
+                    item.style.display = (filter === "all" || catId === filter) ? "" : "none";
+                });
+            }, true); // capturing
+        });
+    })();
+</script>
+
 <!-- End Service -->
 <!-- Start View Work -->
 <section class="bg-secondary">
@@ -221,7 +178,7 @@
                         <div class="recent-work-content text-start mb-3 ml-3 text-dark">
                             <h3 class="card-title light-300">Branding</h3>
                             <p class="card-text">Put enim ad minim veniam</p>
-                        </div>
+                        </div>  
                     </div>
                 </a>
             </div><!-- End Recent Work -->
