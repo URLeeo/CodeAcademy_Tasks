@@ -17,6 +17,15 @@ namespace FiorelloClone.Controllers
 
         public async Task<IActionResult> Index()
         {
+            //HttpContext.Session.SetString("name", "Fiorello");
+            //HttpContext.Response.Cookies.Append("surname", "Clone", new CookieOptions
+            //{
+            //    MaxAge = TimeSpan.FromMinutes(10)
+            //});
+
+            //ViewBag.SessionName = HttpContext.Session.GetString("name");
+            //ViewBag.CookieSurname = HttpContext.Request.Cookies["surname"];
+
             IEnumerable<Slider> sliders = await _context.Sliders
                 .Where(m => !m.IsDeleted)
                 .ToListAsync();
