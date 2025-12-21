@@ -17,7 +17,11 @@
                     <h6>@item.Category.Name</h6>
                 </div>
                 <div class="price">
-                    <span class="text-black-50"><a asp-controller="Basket" asp-action="Add" asp-route-id = "@item.Id">Add to cart</a></span>
+                    <span class="text-black-50">
+                        <button type="button" class="add-to-cart btn btn-link p-0" data-id="@item.Id">
+                            Add to cart
+                        </button>
+                    </span>
                     <span class="text-black-50">@item.Price</span>
                 </div>
             </div>
@@ -30,3 +34,4 @@ else
         <p>No products found.</p>
     </div>
 }
+<script src="~/js/customBasketAdd.js"></script>

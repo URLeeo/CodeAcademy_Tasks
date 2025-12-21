@@ -176,6 +176,7 @@ wwwroot\img\shop-category-img-6.jpg
 wwwroot\img\testimonial-img-1.png
 wwwroot\img\testimonial-img-2.png
 wwwroot\js\custom.js
+wwwroot\js\customBasketAdd.js
 wwwroot\js\script.js
 wwwroot\owlcarousel\owl.carousel.min.css
 wwwroot\owlcarousel\owl.carousel.min.js
@@ -248,6 +249,7 @@ C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider
 C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\wwwroot\css\style.css
 C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\wwwroot\css\style.css.map
 C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\wwwroot\js\custom.js
+C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\wwwroot\js\customBasketAdd.js
 C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\wwwroot\js\script.js
 C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\wwwroot\owlcarousel\owl.carousel.min.css
 C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\wwwroot\owlcarousel\owl.carousel.min.js

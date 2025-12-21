@@ -673,3 +673,4 @@ C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider
 C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\obj\Debug\net10.0\FiorelloClone.genruntimeconfig.cache
 C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\obj\Debug\net10.0\ref\FiorelloClone.dll
 C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\obj\Debug\net10.0\compressed\xaie9p3vgx-{0}-hyn1xevom0-hyn1xevom0.gz
+C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\obj\Debug\net10.0\compressed\5j6pbnco4t-{0}-89euzvsgw9-89euzvsgw9.gz

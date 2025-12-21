@@ -118,9 +118,9 @@
                                 </li>
 
                                 <li class="nav-item my-auto shop-cart">
-                                    <i class="fas fa-shopping-bag"></i>
+                                    <a asp-controller="Basket" asp-action="Index"><i class="fas fa-shopping-bag"></i></a>
                                     <sup class="rounded-circle">0</sup>
-                                    <span>CART ($0)</span>
+                                    <span><a asp-controller="Basket" asp-action="Index">CART ($0)</a></span>
                                     <ul class="list-unstyled py-3">
                                         <li class="">No products in the cart.</li>
                                     </ul>
@@ -180,13 +180,10 @@
                     </ul>
 
                     <li><a href="#">Portfolio <i class="fas fa-caret-right fa-sm"></i></a></li>
-                    <!-- (səndə bu hissələr çox təkrardır, saxladım) -->
 
                     <li><a href="#">Blog <i class="fas fa-caret-right fa-sm"></i></a></li>
-                    <!-- (səndə bu hissələr çox təkrardır, saxladım) -->
 
                     <li><a href="#">Elements <i class="fas fa-caret-right fa-sm"></i></a></li>
-                    <!-- (səndə bu hissələr çox təkrardır, saxladım) -->
                 </ul>
             </div>
         </div>
