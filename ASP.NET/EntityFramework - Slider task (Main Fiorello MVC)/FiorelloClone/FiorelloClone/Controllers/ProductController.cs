@@ -17,10 +17,21 @@ public class ProductController : Controller
         IEnumerable<Product> products = await _context.Products
             .Include(m => m.ProductImages)
             .Include(m => m.Category)
-            .Take(4)
-            .Skip(4)
             .Where(m => !m.IsDeleted)
+            .Skip(4)
+            .Take(4)
             .ToListAsync();
         return View(products);
+    }
+    public async Task<IActionResult> Details(int id)
+    {
+        var product = await _context.Products
+            .Include(p => p.ProductImages)
+            .Include(p => p.Category)
+            .FirstOrDefaultAsync(p => p.Id == id && !p.IsDeleted);
+
+        if (product == null) return NotFound();
+
+        return View(product);
     }
 }

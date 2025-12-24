@@ -18,14 +18,20 @@ public class BasketController : Controller
 
     public async Task<IActionResult> Index()
     {
-        List<BasketVM> basket = JsonConvert.DeserializeObject<List<BasketVM>>(HttpContext.Request.Cookies["basket"]);
+        List<BasketVM> basket = Request.Cookies["basket"] != null
+            ? JsonConvert.DeserializeObject<List<BasketVM>>(Request.Cookies["basket"])
+            : new List<BasketVM>();
 
         List<BasketDetailVM> basketDetails = new();
 
         foreach (var item in basket)
         {
-            Product product = await _context.Products.Include(m => m.ProductImages).Include(m => m.Category).FirstOrDefaultAsync(m => m.Id == item.Id
-            && !m.IsDeleted);
+            Product product = await _context.Products
+                .Include(m => m.ProductImages)
+                .Include(m => m.Category)
+                .FirstOrDefaultAsync(m => m.Id == item.Id && !m.IsDeleted);
+
+            if (product == null) continue;
 
             basketDetails.Add(new BasketDetailVM
             {
@@ -61,9 +67,19 @@ public class BasketController : Controller
         var exist = basket.FirstOrDefault(x => x.Id == id);
 
         if (exist == null)
-            basket.Add(new BasketVM { Id = product.Id, Count = 1 });
+        {
+            basket.Add(new BasketVM
+            {
+                Id = product.Id,
+                Count = 1,
+                Price = product.Price
+            });
+        }
         else
+        {
             exist.Count++;
+            exist.Price = product.Price;
+        }
 
         Response.Cookies.Append("basket", JsonConvert.SerializeObject(basket));
 
@@ -81,7 +97,8 @@ public class BasketController : Controller
         };
 
         int totalCount = basket.Sum(x => x.Count);
+        decimal totalPrice = basket.Sum(x => x.Count * x.Price);
 
-        return Ok(new { totalCount, item = detail });
+        return Ok(new { totalCount, totalPrice, item = detail });
     }
 }

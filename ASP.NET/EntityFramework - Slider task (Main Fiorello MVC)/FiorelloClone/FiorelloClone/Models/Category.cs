@@ -1,7 +1,10 @@
-﻿namespace FiorelloClone.Models;
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace FiorelloClone.Models;
 
 public class Category : BaseEntity
 {
-    public string Name { get; set; }
-    public ICollection<Product> Products { get; set; }
+    [Required]
+    public string Name { get; set; } = null!;
+    public ICollection<Product>? Products { get; set; }
 }
