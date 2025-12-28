@@ -20,6 +20,7 @@ public class CategoryController : Controller
 
         IEnumerable<GetAllCategoryVM> getAllCategoryVMs = categories.Select(category => new GetAllCategoryVM
         {
+            Id = category.Id,
             Name = category.Name
         });
 
@@ -33,20 +34,102 @@ public class CategoryController : Controller
     }
 
     [HttpPost]
-    public async Task<IActionResult> Create(Category category)
+    public async Task<IActionResult> Create(CreateCategoryVM request)
     {
         if (!ModelState.IsValid)
         {
             return View();
         }
 
-        bool isExist = await _context.Categories.AnyAsync(c => c.Name.ToLower().Trim() == category.Name.ToLower().Trim());
+        bool isExist = await _context.Categories.AnyAsync(c => c.Name.ToLower().Trim() == request.Name.ToLower().Trim());
         if (isExist)
         {
             ModelState.AddModelError("Name", "This category already exists");
             return View();
         }
-        await _context.Categories.AddAsync(category);
+
+        Category newCategory = new()
+        {
+            Name = request.Name
+        };
+
+        await _context.Categories.AddAsync(newCategory);
+        await _context.SaveChangesAsync();
+        return RedirectToAction(nameof(Index));
+    }
+
+    [HttpGet]
+    public async Task<IActionResult> Detail(int id)
+    {
+        Category? category = await _context.Categories.FirstOrDefaultAsync(c => c.Id == id && !c.IsDeleted);
+        if (category == null)
+        {
+            return NotFound();
+        }
+        DetailCategoryVM detailCategoryVM = new()
+        {
+            Id = category.Id,
+            Name = category.Name
+        };
+        return View(detailCategoryVM);
+    }
+    [HttpGet]
+    public async Task<IActionResult> Update(int id)
+    {
+        Category? category = await _context.Categories.FirstOrDefaultAsync(c => c.Id == id && !c.IsDeleted);
+        if (category == null)
+        {
+            return NotFound();
+        }
+        UpdateCategoryVM updateCategoryVM = new()
+        {
+            Name = category.Name
+        };
+        return View(updateCategoryVM);
+    }
+    [HttpPost]
+    public async Task<IActionResult> Update(int id, UpdateCategoryVM request)
+    {
+        if (!ModelState.IsValid)
+        {
+            return View();
+        }
+        Category? category = await _context.Categories.FirstOrDefaultAsync(c => c.Id == id && !c.IsDeleted);
+        if (category == null)
+        {
+            return NotFound();
+        }
+        bool isExist = await _context.Categories.AnyAsync(c => c.Name.ToLower().Trim() == request.Name.ToLower().Trim() && c.Id != id);
+        if (isExist)
+        {
+            ModelState.AddModelError("Name", "This category already exists");
+            return View();
+        }
+
+        category.Name = request.Name;
+
+        //Category updatedCategory = new()
+        //{
+        //    Id = category.Id,
+        //    Name = request.Name
+        //};
+
+        //_context.Categories.Update(updatedCategory);
+
+        await _context.SaveChangesAsync();
+        return RedirectToAction(nameof(Index));
+    }
+    [HttpPost]
+    public async Task<IActionResult> Delete(int id)
+    {
+        Category? category = await _context.Categories.FirstOrDefaultAsync(c => c.Id == id && !c.IsDeleted);
+        if (category == null)
+        {
+            return NotFound();
+        }
+
+        //category.IsDeleted = true;
+        _context.Categories.Remove(category);
         await _context.SaveChangesAsync();
         return RedirectToAction(nameof(Index));
     }
