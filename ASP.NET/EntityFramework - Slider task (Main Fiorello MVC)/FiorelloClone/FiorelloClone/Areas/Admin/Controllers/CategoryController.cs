@@ -59,8 +59,12 @@ public class CategoryController : Controller
     }
 
     [HttpGet]
-    public async Task<IActionResult> Detail(int id)
+    public async Task<IActionResult> Detail(int? id)
     {
+        if (id is null)
+        {
+            return BadRequest();
+        }
         Category? category = await _context.Categories.FirstOrDefaultAsync(c => c.Id == id && !c.IsDeleted);
         if (category == null)
         {
@@ -74,8 +78,12 @@ public class CategoryController : Controller
         return View(detailCategoryVM);
     }
     [HttpGet]
-    public async Task<IActionResult> Update(int id)
+    public async Task<IActionResult> Update(int? id)
     {
+        if (id is null)
+        {
+            return BadRequest();
+        }
         Category? category = await _context.Categories.FirstOrDefaultAsync(c => c.Id == id && !c.IsDeleted);
         if (category == null)
         {
@@ -88,8 +96,12 @@ public class CategoryController : Controller
         return View(updateCategoryVM);
     }
     [HttpPost]
-    public async Task<IActionResult> Update(int id, UpdateCategoryVM request)
+    public async Task<IActionResult> Update(int? id, UpdateCategoryVM request)
     {
+        if (id is null)
+        {
+            return BadRequest();
+        }
         if (!ModelState.IsValid)
         {
             return View();
@@ -120,8 +132,12 @@ public class CategoryController : Controller
         return RedirectToAction(nameof(Index));
     }
     [HttpPost]
-    public async Task<IActionResult> Delete(int id)
+    public async Task<IActionResult> Delete(int? id)
     {
+        if (id is null)
+        {
+            return BadRequest();
+        }
         Category? category = await _context.Categories.FirstOrDefaultAsync(c => c.Id == id && !c.IsDeleted);
         if (category == null)
         {
