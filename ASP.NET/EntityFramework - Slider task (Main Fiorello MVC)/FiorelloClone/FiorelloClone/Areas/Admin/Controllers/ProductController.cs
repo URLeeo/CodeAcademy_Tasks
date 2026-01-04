@@ -4,6 +4,7 @@ using FiorelloClone.Helpers;
 using FiorelloClone.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.Build.Tasks;
 using Microsoft.EntityFrameworkCore;
 
 namespace FiorelloClone.Areas.Admin.Controllers
@@ -290,6 +291,44 @@ namespace FiorelloClone.Areas.Admin.Controllers
             product.Description = request.Description;
             product.Price = request.Price;
             product.CategoryId = request.CategoryId;
+
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction(nameof(Index));
+        }
+
+        public async Task<IActionResult> Detail(int? id)
+        {
+            if (id == null) return BadRequest();
+
+            Product? product = await _context.Products
+                .Include(m => m.ProductImages)
+                .Include(m => m.Category)
+                .FirstOrDefaultAsync(m => m.Id == id);
+
+            if (product == null) return NotFound();
+
+            DetailProductVM detailProductVM = new()
+            {
+                Name = product.Name,
+                Description = product.Description,
+                Price = product.Price,
+                CategoryName = product.Category.Name,
+                ProductImages = product.ProductImages,
+            };
+
+            return View(detailProductVM);
+        }
+
+        public async Task<IActionResult> Delete(int? id)
+        {
+            if (id == null) return BadRequest();
+
+            Product? product = await _context.Products
+                .FirstOrDefaultAsync(m => m.Id == id && !m.IsDeleted);
+            if (product == null) return NotFound();
+
+            _context.Products.Remove(product);
 
             await _context.SaveChangesAsync();
 
