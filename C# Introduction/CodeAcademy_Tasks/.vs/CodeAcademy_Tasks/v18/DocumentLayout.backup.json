@@ -106,7 +106,8 @@
               "RelativeToolTip": "CodeAcademy_Tasks\\Models\\Pair.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T19:31:19.947Z"
+              "WhenOpened": "2025-12-21T19:31:19.947Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -118,7 +119,8 @@
               "RelativeToolTip": "CodeAcademy_Tasks\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T19:31:19.936Z"
+              "WhenOpened": "2025-12-21T19:31:19.936Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -130,7 +132,8 @@
               "RelativeToolTip": "CodeAcademy_Tasks\\Exceptions\\LoginException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T19:31:19.937Z"
+              "WhenOpened": "2025-12-21T19:31:19.937Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -142,7 +145,8 @@
               "RelativeToolTip": "CodeAcademy_Tasks\\Exceptions\\InvalidCredentialsException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T19:31:19.929Z"
+              "WhenOpened": "2025-12-21T19:31:19.929Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -154,7 +158,8 @@
               "RelativeToolTip": "CodeAcademy_Tasks\\Exceptions\\UserAlreadyExistsException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T19:31:19.856Z"
+              "WhenOpened": "2025-12-21T19:31:19.856Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -179,7 +184,8 @@
               "RelativeToolTip": "CodeAcademy_Tasks\\Models\\Kelvin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T19:31:19.977Z"
+              "WhenOpened": "2025-12-21T19:31:19.977Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -191,7 +197,8 @@
               "RelativeToolTip": "CodeAcademy_Tasks\\Models\\Eagle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T19:31:19.981Z"
+              "WhenOpened": "2025-12-21T19:31:19.981Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -203,7 +210,8 @@
               "RelativeToolTip": "CodeAcademy_Tasks\\Models\\Celsius.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T19:31:19.975Z"
+              "WhenOpened": "2025-12-21T19:31:19.975Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -215,7 +223,8 @@
               "RelativeToolTip": "CodeAcademy_Tasks\\Models\\Bird.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T19:31:19.954Z"
+              "WhenOpened": "2025-12-21T19:31:19.954Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -227,7 +236,8 @@
               "RelativeToolTip": "CodeAcademy_Tasks\\Models\\AuthService.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAiwDMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T19:31:19.926Z"
+              "WhenOpened": "2025-12-21T19:31:19.926Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -239,7 +249,8 @@
               "RelativeToolTip": "CodeAcademy_Tasks\\Models\\Animal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T19:31:19.967Z"
+              "WhenOpened": "2025-12-21T19:31:19.967Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -251,7 +262,8 @@
               "RelativeToolTip": "CodeAcademy_Tasks\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T19:31:19.957Z"
+              "WhenOpened": "2025-12-21T19:31:19.957Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
