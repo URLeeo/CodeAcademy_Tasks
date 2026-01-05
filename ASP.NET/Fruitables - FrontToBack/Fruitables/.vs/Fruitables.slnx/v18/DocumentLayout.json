@@ -1,0 +1,681 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\fruitables - fronttoback\\fruitables\\fruitables\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\fruitables - fronttoback\\fruitables\\fruitables\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\fruitables - fronttoback\\fruitables\\fruitables\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\fruitables - fronttoback\\fruitables\\fruitables\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\fruitables - fronttoback\\fruitables\\fruitables\\areas\\admin\\views\\category\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\areas\\admin\\views\\category\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\fruitables - fronttoback\\fruitables\\fruitables\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\fruitables - fronttoback\\fruitables\\fruitables\\areas\\admin\\viewmodels\\productvms\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\areas\\admin\\viewmodels\\productvms\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\fruitables - fronttoback\\fruitables\\fruitables\\areas\\admin\\viewmodels\\categoryvms\\createcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\areas\\admin\\viewmodels\\categoryvms\\createcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\fruitables - fronttoback\\fruitables\\fruitables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\fruitables - fronttoback\\fruitables\\fruitables\\views\\shared\\components\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\views\\shared\\components\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\fruitables - fronttoback\\fruitables\\fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\fruitables - fronttoback\\fruitables\\fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\fruitables - fronttoback\\fruitables\\fruitables\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\fruitables - fronttoback\\fruitables\\fruitables\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\fruitables - fronttoback\\fruitables\\fruitables\\views\\basket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\views\\basket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\fruitables - fronttoback\\fruitables\\fruitables\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\fruitables - fronttoback\\fruitables\\fruitables\\views\\shared\\components\\blog\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\views\\shared\\components\\blog\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\fruitables - fronttoback\\fruitables\\fruitables\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\fruitables - fronttoback\\fruitables\\fruitables\\views\\shared\\_productpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\views\\shared\\_productpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\fruitables - fronttoback\\fruitables\\fruitables\\views\\shared\\components\\footer\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\views\\shared\\components\\footer\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\fruitables - fronttoback\\fruitables\\fruitables\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\fruitables - fronttoback\\fruitables\\fruitables\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\fruitables - fronttoback\\fruitables\\fruitables\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\fruitables - fronttoback\\fruitables\\fruitables\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\fruitables - fronttoback\\fruitables\\fruitables\\viewmodels\\basketvms\\basketdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\viewmodels\\basketvms\\basketdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\fruitables - fronttoback\\fruitables\\fruitables\\viewmodels\\headervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\viewmodels\\headervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\fruitables - fronttoback\\fruitables\\fruitables\\viewcomponents\\headerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\viewcomponents\\headerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\fruitables - fronttoback\\fruitables\\fruitables\\viewcomponents\\footerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\viewcomponents\\footerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\fruitables - fronttoback\\fruitables\\fruitables\\viewcomponents\\blogviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\viewcomponents\\blogviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\fruitables - fronttoback\\fruitables\\fruitables\\services\\layoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\services\\layoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\fruitables - fronttoback\\fruitables\\fruitables\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\fruitables - fronttoback\\fruitables\\fruitables\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\fruitables - fronttoback\\fruitables\\fruitables\\helpers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\helpers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\fruitables - fronttoback\\fruitables\\fruitables\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\fruitables - fronttoback\\fruitables\\fruitables\\migrations\\20260105053049_createdfruitdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\migrations\\20260105053049_createdfruitdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\fruitables - fronttoback\\fruitables\\fruitables\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\fruitables - fronttoback\\fruitables\\fruitables\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\fruitables - fronttoback\\fruitables\\fruitables\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\fruitables - fronttoback\\fruitables\\fruitables\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E129AA7-2814-01F6-BCA1-C58AEED16FD6}|Fruitables\\Fruitables.csproj|solutionrelative:fruitables\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Views\\Shared\\Components\\Blog\\Default.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Views\\Shared\\Components\\Blog\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Views\\Shared\\Components\\Blog\\Default.cshtml",
+              "RelativeToolTip": "Fruitables\\Views\\Shared\\Components\\Blog\\Default.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T19:44:33.483Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Fruitables\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T19:29:05.951Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "RelativeToolTip": "Fruitables\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T19:45:56.392Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeToolTip": "Fruitables\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T20:53:27.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Fruitables\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T20:53:01.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Fruitables\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T20:53:02.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Fruitables\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T20:53:19.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Areas\\Admin\\Views\\Category\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Areas\\Admin\\Views\\Category\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Areas\\Admin\\Views\\Category\\Detail.cshtml",
+              "RelativeToolTip": "Fruitables\\Areas\\Admin\\Views\\Category\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T20:53:04.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Fruitables\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T20:52:26.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Areas\\Admin\\ViewModels\\ProductVMs\\CreateProductVM.cs",
+              "RelativeDocumentMoniker": "Fruitables\\Areas\\Admin\\ViewModels\\ProductVMs\\CreateProductVM.cs",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Areas\\Admin\\ViewModels\\ProductVMs\\CreateProductVM.cs",
+              "RelativeToolTip": "Fruitables\\Areas\\Admin\\ViewModels\\ProductVMs\\CreateProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T20:52:42.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Areas\\Admin\\ViewModels\\CategoryVMs\\CreateCategoryVM.cs",
+              "RelativeDocumentMoniker": "Fruitables\\Areas\\Admin\\ViewModels\\CategoryVMs\\CreateCategoryVM.cs",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Areas\\Admin\\ViewModels\\CategoryVMs\\CreateCategoryVM.cs",
+              "RelativeToolTip": "Fruitables\\Areas\\Admin\\ViewModels\\CategoryVMs\\CreateCategoryVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T20:52:36.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Program.cs",
+              "RelativeDocumentMoniker": "Fruitables\\Program.cs",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Program.cs",
+              "RelativeToolTip": "Fruitables\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T05:16:20.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "bootstrap-grid.rtl.min.css.map",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+              "RelativeDocumentMoniker": "Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+              "RelativeToolTip": "Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-05T20:38:16.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "bootstrap-grid.min.css.map",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+              "RelativeDocumentMoniker": "Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+              "RelativeToolTip": "Fruitables\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-05T20:38:10.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Views\\Basket\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Views\\Basket\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Views\\Basket\\Index.cshtml",
+              "RelativeToolTip": "Fruitables\\Views\\Basket\\Index.cshtml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T06:15:00.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Fruitables\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Fruitables\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T05:41:46.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "Fruitables\\Controllers\\BasketController.cs",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "Fruitables\\Controllers\\BasketController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAgwGoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T20:09:35.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Views\\Slider\\Index.cshtml",
+              "RelativeToolTip": "Fruitables\\Views\\Slider\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T19:46:16.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ProductPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Views\\Shared\\_ProductPartial.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Views\\Shared\\_ProductPartial.cshtml",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Views\\Shared\\_ProductPartial.cshtml",
+              "RelativeToolTip": "Fruitables\\Views\\Shared\\_ProductPartial.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAiwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T19:28:55.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "RelativeToolTip": "Fruitables\\Views\\Shared\\Components\\Footer\\Default.cshtml",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAiwIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T19:44:55.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Fruitables\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T06:17:09.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Fruitables\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAiwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T06:17:04.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Fruitables\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T19:28:51.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Fruitables\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Fruitables\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T19:28:49.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BasketDetailVM.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\ViewModels\\BasketVMs\\BasketDetailVM.cs",
+              "RelativeDocumentMoniker": "Fruitables\\ViewModels\\BasketVMs\\BasketDetailVM.cs",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\ViewModels\\BasketVMs\\BasketDetailVM.cs",
+              "RelativeToolTip": "Fruitables\\ViewModels\\BasketVMs\\BasketDetailVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T19:24:11.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HeaderVM.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\ViewModels\\HeaderVM.cs",
+              "RelativeDocumentMoniker": "Fruitables\\ViewModels\\HeaderVM.cs",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\ViewModels\\HeaderVM.cs",
+              "RelativeToolTip": "Fruitables\\ViewModels\\HeaderVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T06:14:54.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HeaderViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\ViewComponents\\HeaderViewComponent.cs",
+              "RelativeDocumentMoniker": "Fruitables\\ViewComponents\\HeaderViewComponent.cs",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\ViewComponents\\HeaderViewComponent.cs",
+              "RelativeToolTip": "Fruitables\\ViewComponents\\HeaderViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T06:14:30.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FooterViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\ViewComponents\\FooterViewComponent.cs",
+              "RelativeDocumentMoniker": "Fruitables\\ViewComponents\\FooterViewComponent.cs",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\ViewComponents\\FooterViewComponent.cs",
+              "RelativeToolTip": "Fruitables\\ViewComponents\\FooterViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T06:14:29.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BlogViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\ViewComponents\\BlogViewComponent.cs",
+              "RelativeDocumentMoniker": "Fruitables\\ViewComponents\\BlogViewComponent.cs",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\ViewComponents\\BlogViewComponent.cs",
+              "RelativeToolTip": "Fruitables\\ViewComponents\\BlogViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T06:14:20.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LayoutService.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Services\\LayoutService.cs",
+              "RelativeDocumentMoniker": "Fruitables\\Services\\LayoutService.cs",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Services\\LayoutService.cs",
+              "RelativeToolTip": "Fruitables\\Services\\LayoutService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T06:13:42.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "Fruitables\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "Fruitables\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T05:42:45.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Fruitables\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Fruitables\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAkwAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T05:41:47.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Helpers\\Helper.cs",
+              "RelativeDocumentMoniker": "Fruitables\\Helpers\\Helper.cs",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Helpers\\Helper.cs",
+              "RelativeToolTip": "Fruitables\\Helpers\\Helper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T05:42:18.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Fruitables\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Fruitables\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T05:41:21.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20260105053049_createdFruitDB.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Migrations\\20260105053049_createdFruitDB.cs",
+              "RelativeDocumentMoniker": "Fruitables\\Migrations\\20260105053049_createdFruitDB.cs",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Migrations\\20260105053049_createdFruitDB.cs",
+              "RelativeToolTip": "Fruitables\\Migrations\\20260105053049_createdFruitDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T05:30:49.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\appsettings.json",
+              "RelativeDocumentMoniker": "Fruitables\\appsettings.json",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\appsettings.json",
+              "RelativeToolTip": "Fruitables\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-05T05:28:41.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Fruitables\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Fruitables\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T05:23:28.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "Fruitables\\Models\\Blog.cs",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Models\\Blog.cs",
+              "RelativeToolTip": "Fruitables\\Models\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T05:22:31.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Fruitables\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\Fruitables - FrontToBack\\Fruitables\\Fruitables\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Fruitables\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T05:22:19.213Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

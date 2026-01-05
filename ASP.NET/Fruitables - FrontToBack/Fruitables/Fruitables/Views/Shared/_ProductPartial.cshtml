@@ -1,0 +1,72 @@
+﻿@model IEnumerable<Product>
+
+@if (Model != null && Model.Any())
+{
+    foreach (var item in Model)
+    {
+        <div class="col-md-6 col-lg-4 col-xl-3 product">
+            <a asp-controller="Product"
+               asp-action="Details"
+               asp-route-id="@item.Id"
+               class="text-decoration-none text-dark d-block">
+
+                <div class="rounded position-relative fruite-item product-item"
+                     data-id="@item.CategoryId"
+                     style="cursor:pointer;">
+
+                    <div class="fruite-img">
+                        <img src="~/img/@item.ProductImages.FirstOrDefault(m => !m.IsDeleted && m.IsMain)?.Image"
+                             class="img-fluid w-100 rounded-top"
+                             alt="@item.Name">
+                    </div>
+
+                    <div class="text-white bg-secondary px-3 py-1 rounded position-absolute"
+                         style="top: 10px; left: 10px">
+                        @item.Category?.Name
+                    </div>
+
+                    <div class="p-4 border border-secondary border-top-0 rounded-bottom">
+                        <h4 class="mb-2">@item.Name</h4>
+
+                        <p class="text-muted mb-3">
+                            @(item.Description != null ? item.Description.Substring(0, Math.Min(60, item.Description.Length)) + "..." : "Fresh and organic product.")
+                        </p>
+
+                        <div class="d-flex justify-content-between flex-lg-wrap align-items-center">
+                            <p class="text-dark fs-5 fw-bold mb-0">
+                                @item.Price azn
+                            </p>
+
+                            <button type="button"
+                                    class="add-to-cart btn border border-secondary rounded-pill px-3 text-primary"
+                                    data-id="@item.Id">
+                                <i class="fa fa-shopping-bag me-2 text-primary"></i>
+                                Add to cart
+                            </button>
+                        </div>
+                    </div>
+
+                </div>
+
+            </a>
+        </div>
+    }
+}
+else
+{
+    <div class="col-12">
+        <p class="text-center text-muted py-5">No products found.</p>
+    </div>
+}
+
+<script src="~/js/customBasketAdd.js"></script>
+
+<script>
+    document.addEventListener("click", function (e) {
+        const btn = e.target.closest(".add-to-cart");
+        if (btn) {
+            e.preventDefault();
+            e.stopPropagation();
+        }
+    });
+</script>

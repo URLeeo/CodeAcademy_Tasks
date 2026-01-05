@@ -201,14 +201,16 @@ wwwroot\sass\sections\_slider.scss
 wwwroot\sass\sections\_subscribe.scss
 wwwroot\sass\sections\_tab.scss
 wwwroot\sass\style.scss
+C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\wwwroot\admin\css\maps\style.css.map
+C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\wwwroot\admin\css\style.css
+C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\wwwroot\admin\documentation\documentation.html
+C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\wwwroot\admin\gulpfile.js
+C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\wwwroot\admin\images\favicon.ico
+C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\wwwroot\admin\images\logo-mini.svg
+C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\wwwroot\admin\images\logo.svg
+C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\wwwroot\admin\js\chart.js
 C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\wwwroot\admin\js\Chart.min.js
 C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\wwwroot\admin\js\dashboard.js
-C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\wwwroot\admin\js\chart.js
-C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\wwwroot\admin\documentation\documentation.html
-C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\wwwroot\admin\images\logo.svg
-C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\wwwroot\admin\images\logo-mini.svg
-C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\wwwroot\admin\gulpfile.js
-C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\wwwroot\admin\css\style.css
 C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\wwwroot\admin\js\data-table.js
 C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\wwwroot\admin\js\dataTables.bootstrap4.js
 C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\wwwroot\admin\js\documentation.js
@@ -248,10 +250,8 @@ C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider
 C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\wwwroot\css\style.css
 C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\wwwroot\css\style.css.map
 C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\wwwroot\js\custom.js
-C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\wwwroot\owlcarousel\owl.carousel.min.js
-C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\wwwroot\owlcarousel\owl.theme.default.min.css
 C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\wwwroot\js\customBasketAdd.js
 C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\wwwroot\js\script.js
 C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\wwwroot\owlcarousel\owl.carousel.min.css
-C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\wwwroot\admin\images\favicon.ico
-C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\wwwroot\admin\css\maps\style.css.map
+C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\wwwroot\owlcarousel\owl.carousel.min.js
+C:\Users\Leo\OneDrive\Desktop\CodeAcademy_Tasks\ASP.NET\EntityFramework - Slider task (Main Fiorello MVC)\FiorelloClone\FiorelloClone\wwwroot\owlcarousel\owl.theme.default.min.css

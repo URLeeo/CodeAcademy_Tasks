@@ -1,0 +1,110 @@
+﻿@model List<BasketDetailVM>
+
+<div class="container-fluid py-5">
+    <div class="container py-5">
+
+        <div class="table-responsive">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">Image</th>
+                        <th scope="col">Name</th>
+                        <th scope="col">Category</th>
+                        <th scope="col">Price</th>
+                        <th scope="col">Count</th>
+                        <th scope="col">TotalPrice</th>
+                        <th scope="col">Settings</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    @{
+                        decimal totalPriceSum = 0;
+                    }
+
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                <div class="d-flex align-items-center">
+                                    <img src="~/img/@item.Image"
+                                         class="img-fluid rounded-circle"
+                                         style="width: 80px; height: 80px;"
+                                         alt="product" />
+                                </div>
+                            </td>
+
+                            <td>
+                                <p class="mb-0 mt-4 fw-bold">@item.Name</p>
+                            </td>
+
+                            <td>
+                                <p class="mb-0 mt-4">@item.Category</p>
+                            </td>
+
+                            <td>
+                                <p class="mb-0 mt-4">@item.Price azn</p>
+                            </td>
+
+                            <td>
+                                <p class="mb-0 mt-4">@item.Count</p>
+                            </td>
+
+                            <td>
+                                <p class="mb-0 mt-4 fw-bold text-primary">@item.TotalPrice azn</p>
+                            </td>
+
+                            <td>
+                                <!-- ✅ DELETE WORKING -->
+                                <button type="button"
+                                        class="btn btn-md rounded-circle bg-light border mt-4 text-danger delete-from-basket"
+                                        data-id="@item.Id">
+                                    <i class="fa fa-times"></i>
+                                </button>
+                            </td>
+                        </tr>
+
+                        totalPriceSum += item.TotalPrice;
+                    }
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Total Price -->
+        <div class="row justify-content-end mt-4">
+            <div class="col-12 col-md-6 col-lg-4">
+                <div class="bg-light rounded p-4">
+                    <div class="d-flex justify-content-between">
+                        <h5 class="mb-0">Total</h5>
+                        <h5 class="mb-0 text-primary fw-bold">@totalPriceSum azn</h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<script>
+    document.addEventListener("click", function (e) {
+        const btn = e.target.closest(".delete-from-basket");
+        if (!btn) return;
+
+        const id = btn.getAttribute("data-id");
+
+        fetch(`/Basket/Delete?id=${id}`, {
+            method: "POST"
+        })
+        .then(res => res.json())
+        .then(data => {
+            // ✅ basket count & price update (headerdə göstərirsə)
+            const basketCount = document.querySelector(".basket-count");
+            const basketPrice = document.querySelector(".basket-price");
+
+            if (basketCount) basketCount.innerText = data.totalCount;
+            if (basketPrice) basketPrice.innerText = data.totalPrice.toFixed(2);
+
+            location.reload();
+        });
+    });
+</script>

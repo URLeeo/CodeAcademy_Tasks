@@ -1,0 +1,43 @@
+﻿@using Newtonsoft.Json.Linq
+@using System.Collections.Generic
+@model IEnumerable<Blog>
+
+@if (Model != null && Model.Any())
+{
+    foreach (var item in Model)
+    {
+        <div class="col-md-6 col-lg-4 col-xl-3">
+            <div class="rounded position-relative fruite-item">
+
+                <!-- Image -->
+                <div class="fruite-img">
+                    <img src="~/img/@item.Image"
+                         class="img-fluid w-100 rounded-top"
+                         alt="@item.Title" />
+                </div>
+
+                <!-- Date Badge -->
+                <div class="text-white bg-secondary px-3 py-1 rounded position-absolute"
+                     style="top: 10px; left: 10px">
+                    @item.CreatedAt
+                </div>
+
+                <!-- Text -->
+                <div class="p-4 border border-secondary border-top-0 rounded-bottom text-center">
+                    <h5 class="mb-2">@item.Title</h5>
+
+                    <p class="text-muted mb-0">
+                        @item.Description
+                    </p>
+                </div>
+
+            </div>
+        </div>
+    }
+}
+else
+{
+    <div class="col-12">
+        <p class="text-center text-muted py-5">No blog posts found.</p>
+    </div>
+}

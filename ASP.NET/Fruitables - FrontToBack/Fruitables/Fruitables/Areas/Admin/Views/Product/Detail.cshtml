@@ -1,0 +1,50 @@
+﻿@model DetailProductVM
+<style>
+    label {
+        display: block;
+    }
+</style>
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Create</h4>
+            <form class="forms-sample">
+                <div class="form-group">
+                    <label for="exampleInputName1">Main image</label>
+                    <img width="200px" height="200px" src="~/img/@Model.ProductImages.FirstOrDefault(m => m.IsMain)?.Image">
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleInputName1">Additional images</label>
+                    @foreach (var item in Model.ProductImages.Where(m => !m.IsMain))
+                    {
+                        <img width="200px" height="200px" src="~/img/@item.Image">
+                    }
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleInputName1">Name</label>
+                    <input asp-for="Name" class="form-control" placeholder="Name" disabled>
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleInputName1">Description</label>
+                    <input asp-for="Description" class="form-control" placeholder="Description" disabled>
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleInputName1">Price</label>
+                    <input asp-for="Price" class="form-control" placeholder="Price" disabled>
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleInputName1">Category</label>
+                    <input asp-for="CategoryName" class="form-control" placeholder="Category" disabled>
+                </div>
+                <button class="btn btn-primary me-2">Submit</button>
+                <a class="btn btn-light" asp-action="Index">Cancel</a>
+            </form>
+        </div>
+    </div>
+</div>
