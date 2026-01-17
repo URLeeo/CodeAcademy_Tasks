@@ -1,9 +1,10 @@
 ﻿using FiorelloClone.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace FiorelloClone.Data;
 
-public class AppDbContext : DbContext
+public class AppDbContext : IdentityDbContext<AppUser>
 {
     public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
     public DbSet<Slider> Sliders { get; set; }
@@ -19,6 +20,7 @@ public class AppDbContext : DbContext
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         //modelBuilder.Entity<Blog>().HasKey(m=>m.Id);
+        base.OnModelCreating(modelBuilder);
         modelBuilder.Entity<Blog>().HasQueryFilter(b => !b.IsDeleted);
         modelBuilder.Entity<Blog>()
             .HasData
