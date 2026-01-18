@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\EntityFramework - Slider task (Main Fiorello MVC)\\FiorelloClone\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6FC51673-1FE4-6FC5-BD1D-B1B4524AFBA8}|FiorelloClone\\FiorelloClone.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\entityframework - slider task (main fiorello mvc)\\fiorelloclone\\fiorelloclone\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6FC51673-1FE4-6FC5-BD1D-B1B4524AFBA8}|FiorelloClone\\FiorelloClone.csproj|solutionrelative:fiorelloclone\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FC51673-1FE4-6FC5-BD1D-B1B4524AFBA8}|FiorelloClone\\FiorelloClone.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\entityframework - slider task (main fiorello mvc)\\fiorelloclone\\fiorelloclone\\viewmodels\\accountvms\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FC51673-1FE4-6FC5-BD1D-B1B4524AFBA8}|FiorelloClone\\FiorelloClone.csproj|solutionrelative:fiorelloclone\\viewmodels\\accountvms\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6FC51673-1FE4-6FC5-BD1D-B1B4524AFBA8}|FiorelloClone\\FiorelloClone.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\entityframework - slider task (main fiorello mvc)\\fiorelloclone\\fiorelloclone\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FC51673-1FE4-6FC5-BD1D-B1B4524AFBA8}|FiorelloClone\\FiorelloClone.csproj|solutionrelative:fiorelloclone\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC51673-1FE4-6FC5-BD1D-B1B4524AFBA8}|FiorelloClone\\FiorelloClone.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\entityframework - slider task (main fiorello mvc)\\fiorelloclone\\fiorelloclone\\views\\shared\\components\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FC51673-1FE4-6FC5-BD1D-B1B4524AFBA8}|FiorelloClone\\FiorelloClone.csproj|solutionrelative:fiorelloclone\\views\\shared\\components\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6FC51673-1FE4-6FC5-BD1D-B1B4524AFBA8}|FiorelloClone\\FiorelloClone.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\entityframework - slider task (main fiorello mvc)\\fiorelloclone\\fiorelloclone\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -23,20 +19,16 @@
       "RelativeMoniker": "D:0:0:{6FC51673-1FE4-6FC5-BD1D-B1B4524AFBA8}|FiorelloClone\\FiorelloClone.csproj|solutionrelative:fiorelloclone\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\EntityFramework - Slider task (Main Fiorello MVC)\\FiorelloClone\\FiorelloClone\\Migrations\\20260117193035_AddIdentityTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FiorelloClone\\Migrations\\20260117193035_AddIdentityTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FC51673-1FE4-6FC5-BD1D-B1B4524AFBA8}|FiorelloClone\\FiorelloClone.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\entityframework - slider task (main fiorello mvc)\\fiorelloclone\\fiorelloclone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FC51673-1FE4-6FC5-BD1D-B1B4524AFBA8}|FiorelloClone\\FiorelloClone.csproj|solutionrelative:fiorelloclone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6FC51673-1FE4-6FC5-BD1D-B1B4524AFBA8}|FiorelloClone\\FiorelloClone.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\entityframework - slider task (main fiorello mvc)\\fiorelloclone\\fiorelloclone\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FC51673-1FE4-6FC5-BD1D-B1B4524AFBA8}|FiorelloClone\\FiorelloClone.csproj|solutionrelative:fiorelloclone\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6FC51673-1FE4-6FC5-BD1D-B1B4524AFBA8}|FiorelloClone\\FiorelloClone.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\entityframework - slider task (main fiorello mvc)\\fiorelloclone\\fiorelloclone\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FC51673-1FE4-6FC5-BD1D-B1B4524AFBA8}|FiorelloClone\\FiorelloClone.csproj|solutionrelative:fiorelloclone\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC51673-1FE4-6FC5-BD1D-B1B4524AFBA8}|FiorelloClone\\FiorelloClone.csproj|c:\\users\\leo\\onedrive\\desktop\\codeacademy_tasks\\asp.net\\entityframework - slider task (main fiorello mvc)\\fiorelloclone\\fiorelloclone\\migrations\\20260117193035_addidentitytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC51673-1FE4-6FC5-BD1D-B1B4524AFBA8}|FiorelloClone\\FiorelloClone.csproj|solutionrelative:fiorelloclone\\migrations\\20260117193035_addidentitytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,46 +50,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RegisterVM.cs",
-              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\EntityFramework - Slider task (Main Fiorello MVC)\\FiorelloClone\\FiorelloClone\\ViewModels\\AccountVMs\\RegisterVM.cs",
-              "RelativeDocumentMoniker": "FiorelloClone\\ViewModels\\AccountVMs\\RegisterVM.cs",
-              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\EntityFramework - Slider task (Main Fiorello MVC)\\FiorelloClone\\FiorelloClone\\ViewModels\\AccountVMs\\RegisterVM.cs",
-              "RelativeToolTip": "FiorelloClone\\ViewModels\\AccountVMs\\RegisterVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T19:46:48.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\EntityFramework - Slider task (Main Fiorello MVC)\\FiorelloClone\\FiorelloClone\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "FiorelloClone\\Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\EntityFramework - Slider task (Main Fiorello MVC)\\FiorelloClone\\FiorelloClone\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "FiorelloClone\\Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-17T19:36:23.461Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\EntityFramework - Slider task (Main Fiorello MVC)\\FiorelloClone\\FiorelloClone\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "FiorelloClone\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\EntityFramework - Slider task (Main Fiorello MVC)\\FiorelloClone\\FiorelloClone\\Controllers\\AccountController.cs",
               "RelativeToolTip": "FiorelloClone\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAApwDQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-13T12:17:35.96Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\EntityFramework - Slider task (Main Fiorello MVC)\\FiorelloClone\\FiorelloClone\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "RelativeDocumentMoniker": "FiorelloClone\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\EntityFramework - Slider task (Main Fiorello MVC)\\FiorelloClone\\FiorelloClone\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "RelativeToolTip": "FiorelloClone\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAwFwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-18T18:57:19.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\EntityFramework - Slider task (Main Fiorello MVC)\\FiorelloClone\\FiorelloClone\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "FiorelloClone\\Views\\_ViewImports.cshtml",
@@ -105,12 +84,11 @@
               "RelativeToolTip": "FiorelloClone\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-17T19:52:06.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T19:52:06.971Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "BasketController.cs",
               "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\EntityFramework - Slider task (Main Fiorello MVC)\\FiorelloClone\\FiorelloClone\\Controllers\\BasketController.cs",
               "RelativeDocumentMoniker": "FiorelloClone\\Controllers\\BasketController.cs",
@@ -118,12 +96,11 @@
               "RelativeToolTip": "FiorelloClone\\Controllers\\BasketController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T19:36:09.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T19:36:09.558Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "20260117193035_AddIdentityTable.cs",
               "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\EntityFramework - Slider task (Main Fiorello MVC)\\FiorelloClone\\FiorelloClone\\Migrations\\20260117193035_AddIdentityTable.cs",
               "RelativeDocumentMoniker": "FiorelloClone\\Migrations\\20260117193035_AddIdentityTable.cs",
@@ -131,25 +108,11 @@
               "RelativeToolTip": "FiorelloClone\\Migrations\\20260117193035_AddIdentityTable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T19:30:35.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T19:30:35.961Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\EntityFramework - Slider task (Main Fiorello MVC)\\FiorelloClone\\FiorelloClone\\Program.cs",
-              "RelativeDocumentMoniker": "FiorelloClone\\Program.cs",
-              "ToolTip": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\EntityFramework - Slider task (Main Fiorello MVC)\\FiorelloClone\\FiorelloClone\\Program.cs",
-              "RelativeToolTip": "FiorelloClone\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T12:32:40.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\EntityFramework - Slider task (Main Fiorello MVC)\\FiorelloClone\\FiorelloClone\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "FiorelloClone\\Models\\AppUser.cs",
@@ -161,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Leo\\OneDrive\\Desktop\\CodeAcademy_Tasks\\ASP.NET\\EntityFramework - Slider task (Main Fiorello MVC)\\FiorelloClone\\FiorelloClone\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "FiorelloClone\\Data\\AppDbContext.cs",
